@@ -1,0 +1,90 @@
+﻿@page "/Soma"
+<h3>SomaDeValores</h3>
+<div class="container">
+    <!-- Content here -->
+    <div class="mb-3">
+        <label for="exampleFormControlInput1" class="form-label">VALOR 1:</label>
+        <input @bind="Valor1" type="number" class="form-control" id="exampleFormControlInput1">
+    </div>
+    <div class="mb-3">
+        <label for="exampleFormControlInput1" class="form-label">VALOR 2:</label>
+        <input @bind="Valor2" type="number" class="form-control" id="exampleFormControlInput2">
+    </div>
+
+    <div class="mb-3">
+        <label for="exampleFormControlInput1" class="form-label">SELECIONE A OPÇÃO:</label>
+        <select @bind="Opcao" class="form-select" aria-label="Seleção Padrão">
+            <option value="0">Abra as Opções</option>
+            <option value="1">Luan</option>
+            <option value="2">Edson</option>
+            <option value="3">Amanda</option>
+        </select>
+    </div>
+
+    <button type="button" class="btn btn-success" @onclick="Calcular">CALCULAR</button>
+    <button type="button" class="btn btn-primary" @onclick="Limpar">NOVO CÁLCULO</button>
+    <button type="button" class="btn btn-dark" @onclick="Comparar">VERIFICAR OPÇÃO</button>
+
+    <nav class="navbar navbar-light" style="background-color: white"></nav>
+
+    <nav class="navbar navbar-light" style="background-color: darkgreen"></nav>
+
+    <div class="mb-3">
+        <label for="exampleFormControlInput1" class="form-label">RESULTADO:</label>
+        <input @bind="Total" type="number" class="form-control" id="exampleFormControlInput1">
+    </div>
+
+    <div class="mb-3">
+        <label for="exampleFormControlInput1" class="form-label">RESULTADO DA OPÇÃO:</label>
+        <input @bind="resultado" type="text" class="form-control" id="exampleFormControlInput1">
+    </div>
+</div>
+
+
+@code {
+    private double? Valor1 { get; set; }
+
+    private double? Valor2 { get; set; }
+
+    private double? Total { get; set; }
+
+    private int Opcao { get; set; } = 0;
+
+    private string resultado { get; set; } = "";
+
+    public void Calcular()
+    {
+        Total = Valor1 + Valor2;
+    }
+
+    public void Limpar()
+    {
+        Valor1 = null;
+
+        Valor2 = null;
+
+        Total = null;
+
+        Opcao = 0;
+
+        resultado = "";
+    }
+
+    public void Comparar()
+    {
+        if (Opcao == 0)
+        {
+            resultado = "selecione uma opção";
+        } else if (Opcao == 1)
+        {
+            resultado = "FEIOSO amante do gabriel";
+        } else if(Opcao == 2)
+        {
+            resultado = "Cabeça";
+        } else if(Opcao == 3)
+        {
+            resultado = "Namorada do Gabriel";
+        }
+
+    }
+}
