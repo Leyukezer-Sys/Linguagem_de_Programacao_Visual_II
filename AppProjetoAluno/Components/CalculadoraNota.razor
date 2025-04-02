@@ -1,0 +1,90 @@
+﻿@page "/NOTA"
+@using AppProjetoAluno.Models
+@rendermode InteractiveServer
+
+<h3>Resgistro Notas</h3>
+<div class="container">
+    <h3><center>SIMULADOR DE NOTAS</center></h3>
+
+    <div class="mb-3">
+        <label for="exampleFormControlInput1" class="form-label">NOME:</label>
+        <input @bind="aluno.Name" type="text" class="form-control" id="exampleFormControlInput1">
+    </div>
+
+    <div class="mb-3">
+        <label for="exampleFormControlInput1" class="form-label">NOTA 1:</label>
+        <input @bind="aluno.Nota1" type="number" class="form-control" id="exampleFormControlInput1">
+    </div>
+
+    <div class="mb-3">
+        <label for="exampleFormControlInput1" class="form-label">NOTA 2 :</label>
+        <input @bind="aluno.Nota2" type="number" class="form-control" id="exampleFormControlInput1">
+    </div>
+
+    <button type="button" class="btn btn-primary" @onclick="CalcularMedia">Calcular</button>
+    <button type="button" class="btn btn-warning" @onclick="Cancelar">CANCELAR</button>
+    <button type="button" class="btn btn-success" @onclick="Add">SALVAR</button>
+
+    <div class="mb-3">
+        <label for="exampleFormControlResult" class="form-label">MÉDIA :</label>
+        <input @bind="media_resultado" type="number" class="form-control" id="exampleFormControlInput1">
+    </div>
+
+    <nav class="navbar navbar-light" style="background-color: white"></nav>
+
+    <nav class="navbar navbar-light" style="background-color: darkgreen"></nav>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">NOME</th>
+                <th scope="col">NOTA 1</th>
+                <th scope="col">NOTA 2</th>
+                <th scope="col">MÉDIA</th>
+                <th scope="col">SITUAÇÃO</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in lista_alunos)
+            {
+                <tr>
+                    <th>@item.Id</th>
+                    <th>@item.Name</th>
+                    <th>@item.Nota1</th>
+                    <th>@item.Nota2</th>
+                    <th>@item.Media()</th>
+                    <th>@item.Situacao()</th>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+</div>
+
+@code {
+    CalcularNota aluno = new CalcularNota(6);
+
+    List<CalcularNota> lista_alunos = new List<CalcularNota>();
+
+    double? media_resultado;
+
+    private void CalcularMedia()
+    {
+        media_resultado = aluno.Media();
+    }
+
+    private void Cancelar()
+    {
+        aluno = new CalcularNota(6);
+    }
+
+    private void Add()
+    {
+        lista_alunos.Add(aluno);
+
+        media_resultado = null;
+
+        aluno = new CalcularNota(6);
+    }
+}

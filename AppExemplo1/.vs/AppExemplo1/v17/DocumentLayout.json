@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{34ECB3A8-83F7-4FFE-8FA3-E6DA41ABC6FF}|AppExemplo1\\AppExemplo1.csproj|solutionrelative:appexemplo1\\pages\\calculadoraimc.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{34ECB3A8-83F7-4FFE-8FA3-E6DA41ABC6FF}|AppExemplo1\\AppExemplo1.csproj|c:\\users\\2022202060022\\documents\\github\\linguagem_de_programacao_visual_ii\\appexemplo1\\appexemplo1\\classes\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34ECB3A8-83F7-4FFE-8FA3-E6DA41ABC6FF}|AppExemplo1\\AppExemplo1.csproj|solutionrelative:appexemplo1\\classes\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34ECB3A8-83F7-4FFE-8FA3-E6DA41ABC6FF}|AppExemplo1\\AppExemplo1.csproj|c:\\users\\2022202060022\\documents\\github\\linguagem_de_programacao_visual_ii\\appexemplo1\\appexemplo1\\classes\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34ECB3A8-83F7-4FFE-8FA3-E6DA41ABC6FF}|AppExemplo1\\AppExemplo1.csproj|solutionrelative:appexemplo1\\classes\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{34ECB3A8-83F7-4FFE-8FA3-E6DA41ABC6FF}|AppExemplo1\\AppExemplo1.csproj|c:\\users\\2022202060022\\documents\\github\\linguagem_de_programacao_visual_ii\\appexemplo1\\appexemplo1\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{34ECB3A8-83F7-4FFE-8FA3-E6DA41ABC6FF}|AppExemplo1\\AppExemplo1.csproj|solutionrelative:appexemplo1\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -22,11 +30,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppExemplo1\\AppExemplo1\\Classes\\Aluno.cs",
+              "RelativeDocumentMoniker": "AppExemplo1\\Classes\\Aluno.cs",
+              "ToolTip": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppExemplo1\\AppExemplo1\\Classes\\Aluno.cs",
+              "RelativeToolTip": "AppExemplo1\\Classes\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T23:29:34.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppExemplo1\\AppExemplo1\\Classes\\Pessoa.cs",
+              "RelativeDocumentMoniker": "AppExemplo1\\Classes\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppExemplo1\\AppExemplo1\\Classes\\Pessoa.cs",
+              "RelativeToolTip": "AppExemplo1\\Classes\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T23:27:12.516Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -36,14 +69,14 @@
               "RelativeDocumentMoniker": "AppExemplo1\\Pages\\CalculadoraImc.razor",
               "ToolTip": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppExemplo1\\AppExemplo1\\Pages\\CalculadoraImc.razor",
               "RelativeToolTip": "AppExemplo1\\Pages\\CalculadoraImc.razor",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAADUAAABUAAAAAAAAAA==",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAACcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-26T01:46:43.567Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppExemplo1\\AppExemplo1\\Shared\\NavMenu.razor",
               "RelativeDocumentMoniker": "AppExemplo1\\Shared\\NavMenu.razor",
@@ -51,12 +84,11 @@
               "RelativeToolTip": "AppExemplo1\\Shared\\NavMenu.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T01:04:48.7Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T01:04:48.7Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "SomaDeValores.razor",
               "DocumentMoniker": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppExemplo1\\AppExemplo1\\Pages\\SomaDeValores.razor",
               "RelativeDocumentMoniker": "AppExemplo1\\Pages\\SomaDeValores.razor",
@@ -64,8 +96,7 @@
               "RelativeToolTip": "AppExemplo1\\Pages\\SomaDeValores.razor",
               "ViewState": "AgIAADYAAAAAAAAAAAAAACYAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T00:34:31.905Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T00:34:31.905Z"
             }
           ]
         }

@@ -1,0 +1,124 @@
+﻿@page "/IMC"
+@using BlazorAppIMC.Models
+@rendermode InteractiveServer
+
+<h3>RegistroIMC</h3>
+
+<div class="container">
+    <h3><center>Calculadora De Imc</center></h3>
+
+    <div class="mb-3">
+        <label for="exampleFormControlInput1" class="form-label">NOME:</label>
+        <input @bind = "pessoa.Nome" type="text" class="form-control" id="exampleFormControlInput1">
+    </div>
+
+    <div class="mb-3">
+        <label for="exampleFormControlInput1" class="form-label">PESO (kg):</label>
+        <input @bind="pessoa.Peso" type="number" class="form-control" id="exampleFormControlInput1">
+    </div>
+
+    <div class="mb-3">
+        <label for="exampleFormControlInput1" class="form-label">ALTURA (M) :</label>
+        <input @bind="pessoa.Altura" type="number" class="form-control" id="exampleFormControlInput1">
+    </div>
+
+    <button type="button" class="btn btn-primary" @onclick="CalcularIMC">CALCULAR</button>
+    <button type="button" class="btn btn-warning" @onclick="Cancelar">CANCELAR</button>
+    <button type="button" class="btn btn-success" @onclick="Add">SALVAR</button>
+
+    <nav class="navbar navbar-light" style="background-color: white"></nav>
+
+    <nav class="navbar navbar-light" style="background-color: darkgreen"></nav>
+
+    <div class="mb-3">
+        <label for="exampleFormControlInput1" class="form-label">RESULTADO:</label>
+        <input @bind="imc_resultado" type="number" class="form-control" id="exampleFormControlInput1">
+    </div>
+
+    <div class="mb-3">
+        <label for="exampleFormControlInput1" class="form-label">CLASSIFICAÇÃO: </label>
+        @if (imc_resultado != null)
+        {
+            if (imc_resultado > 29)
+            {
+                <div class="alert alert-danger">
+                    @pessoa.Situacao()
+                </div>
+            }else if (imc_resultado > 24)
+            {
+                <div class="alert alert-warning">
+                    @pessoa.Situacao()
+                </div>
+            }else if (imc_resultado > 18.4)
+            {
+                <div class="alert alert-success">
+                    @pessoa.Situacao()
+                </div>
+            }else if (imc_resultado < 18.5)
+            {
+                <div class="alert alert-warning">
+                    @pessoa.Situacao()
+                </div>
+            }
+
+        }
+    </div>
+
+    <nav class="navbar navbar-light" style="background-color: white"></nav>
+
+    <nav class="navbar navbar-light" style="background-color: darkgreen"></nav>
+
+    <table class="table table-dark table-striped">
+        <thead>
+            <tr>
+                <th>NOME</th>
+                <th>PESO</th>
+                <th>ALTURA</th>
+                <th>IMC</th>
+                <th>SITUAÇÃO</th>
+                <th>#</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in lista_registros)
+            {
+                <tr id="@pessoa.Id">
+                    <td>@item.Nome</td>
+                    <td>@item.Peso</td>
+                    <td>@item.Altura</td>
+                    <td>@item.CalcularImc()</td>
+                    <td>@item.Situacao()</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+
+</div>
+
+
+@code {
+    CalculadoraIMC pessoa = new CalculadoraIMC();
+    List<CalculadoraIMC> lista_registros = new List<CalculadoraIMC>();
+
+    double? imc_resultado = null;
+
+    private void CalcularIMC()
+    {
+        imc_resultado = pessoa.CalcularImc();
+    }
+
+    private void Cancelar()
+    {
+
+        pessoa = new CalculadoraIMC();
+    }
+
+    private void Add()
+    {
+        lista_registros.Add(pessoa);
+        imc_resultado = null;
+        pessoa = new CalculadoraIMC();
+    }
+
+}
