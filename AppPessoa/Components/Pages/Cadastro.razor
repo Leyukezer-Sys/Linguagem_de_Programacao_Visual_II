@@ -1,0 +1,58 @@
+﻿@page "/cadastro"
+@rendermode InteractiveServer
+@using AppPessoa.Model
+@using AppPessoa.Services
+@inject PessoaServices pessoaServices
+@inject NavigationManager navegacao
+
+<h3>Cadastro</h3>
+
+<div class="container">
+	<nav class="navbar navbar-light" style="background-color: darkgreen"></nav>
+
+	<div class="mb-3">
+		<label for="exampleFormControlInput1" class="form-label"> NOME:</label>
+		<input @bind="pessoa.Nome" type="text" class="form-control" id="exampleFormControlInput1" disabled="@campoBloqueado" />
+	</div>
+
+	<div class="mb-3">
+		<div class="d-flex flex-row">
+			<div class="mb-3">
+				<label for="exampleFormControlInput2" class="form-label"> CPF:</label>
+				<input @bind="pessoa.Cpf" type="text" class="form-control" id="exampleFormControlInput2" disabled="@campoBloqueado" />
+			</div>
+			<div class="mb-3">
+				<label for="exampleFormControlInput3" class="form-label"> DATA DE NASCIMENTO:</label>
+				<input @bind="pessoa.DataNasc" type="date" class="form-control" id="exampleFormControlInput3" disabled="@campoBloqueado" />
+			</div>
+			<div class="mb-3">
+				<label for="exampleFormControlInput4" class="form-label"> TELEFONE:</label>
+				<input @bind="pessoa.Telefone" type="text" class="form-control" id="exampleFormControlInput4" disabled="@campoBloqueado" />
+			</div>
+		</div>
+	</div>
+
+	<button type="button" class="btn btn-warning" @onclick="NovoRegistro">CANCELAR</button>
+	<button type="button" class="btn btn-success" @onclick="Salvar">SALVAR</button>
+</div>
+
+@code {
+	private bool novo = false;
+	private bool campoBloqueado;
+	private Pessoa? pessoa = new Pessoa();
+	private static int id = 0;
+
+	public async Task Salvar()
+	{
+		pessoa.Id = ++id;
+		await pessoaServices.Add(pessoa);
+		novo = true;
+		campoBloqueado = true;
+	}
+
+	public void NovoRegistro()
+	{
+		novo = false;
+		navegacao.NavigateTo("/cadastro", forceLoad: true);
+	}
+}
