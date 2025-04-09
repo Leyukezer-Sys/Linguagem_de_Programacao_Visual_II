@@ -16,24 +16,34 @@
 	</div>
 
 	<div class="mb-3">
-		<div class="d-flex flex-row">
-			<div class="mb-3">
+		<div class="row align-items-center">
+			<div class="col">
 				<label for="exampleFormControlInput2" class="form-label"> CPF:</label>
 				<input @bind="pessoa.Cpf" type="text" class="form-control" id="exampleFormControlInput2" disabled="@campoBloqueado" />
 			</div>
-			<div class="mb-3">
+			<div class="col">
 				<label for="exampleFormControlInput3" class="form-label"> DATA DE NASCIMENTO:</label>
 				<input @bind="pessoa.DataNasc" type="date" class="form-control" id="exampleFormControlInput3" disabled="@campoBloqueado" />
 			</div>
-			<div class="mb-3">
+			<div class="col">
 				<label for="exampleFormControlInput4" class="form-label"> TELEFONE:</label>
 				<input @bind="pessoa.Telefone" type="text" class="form-control" id="exampleFormControlInput4" disabled="@campoBloqueado" />
 			</div>
 		</div>
 	</div>
 
-	<button type="button" class="btn btn-warning" @onclick="NovoRegistro">CANCELAR</button>
 	<button type="button" class="btn btn-success" @onclick="Salvar">SALVAR</button>
+
+	<nav class="navbar navbar-light" style="background-color: darkgreen"></nav>
+
+	@if (novo)
+	{
+		<div class="alert alert-success" role="alert">
+			Salvo com Sucesso!! Redirecionando...
+		</div>
+		<button type="button" class="btn btn-primary" @onclick="NovoRegistro">NOVO REGISTRO</button>
+	}
+
 </div>
 
 @code {
@@ -41,13 +51,14 @@
 	private bool campoBloqueado;
 	private Pessoa? pessoa = new Pessoa();
 	private static int id = 0;
-
 	public async Task Salvar()
 	{
 		pessoa.Id = ++id;
 		await pessoaServices.Add(pessoa);
 		novo = true;
 		campoBloqueado = true;
+		await Task.Delay(1500);
+		navegacao.NavigateTo("/lista", forceLoad: true);
 	}
 
 	public void NovoRegistro()

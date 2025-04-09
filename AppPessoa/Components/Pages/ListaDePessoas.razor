@@ -1,0 +1,57 @@
+﻿@page "/lista"
+@rendermode InteractiveServer
+@using AppPessoa.Model
+@using AppPessoa.Services
+@inject PessoaServices pessoaServices
+@inject NavigationManager navegacao
+
+<h3>PESSOAS CADASTRADAS</h3>
+
+<button class="btn btn-link" @onclick="Cadastrar">NOVA PESSOA</button>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">NOME</th>
+            <th scope="col">CPF</th>
+            <th scope="col">IDADE</th>
+            <th scope="col">TELEFONE</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in pessoas)
+        {
+            <tr>
+                <th>@item.Id</th>
+                <th>@item.Nome</th>
+                <th>@item.Cpf</th>
+                <th>@ExibirIdade(item.DataNasc)</th>
+                <th>@item.Telefone</th>
+            </tr>
+        }
+
+    </tbody>
+</table>
+@code {
+    List<Pessoa>? pessoas { get; set; }
+    private DateTime? today { get; } = DateTime.Today;
+
+    protected override async Task OnInitializedAsync()
+    {
+        pessoas = new List<Pessoa>();
+        var list = pessoaServices?.PessoasOrdernadas();
+        pessoas = list.Result.ToList();
+    }
+
+    private void Cadastrar()
+    {
+        navegacao.NavigateTo("/cadastro", forceLoad: true);
+    }
+
+    private int ExibirIdade(DateTime? data)
+    {
+        int idade = Convert.ToInt32(today - data);
+        return idade;
+    }
+}

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\2022202060022\\Downloads\\AppPessoa\\AppPessoa.csproj",
+      "projectUniqueName": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppPessoa\\AppPessoa.csproj",
       "projectName": "AppPessoa",
-      "projectPath": "C:\\Users\\2022202060022\\Downloads\\AppPessoa\\AppPessoa.csproj",
+      "projectPath": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppPessoa\\AppPessoa.csproj",
       "packagesPath": "C:\\Users\\2022202060022\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\2022202060022\\Downloads\\AppPessoa\\obj\\",
+      "outputPath": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppPessoa\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
