@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividade15-04-2025\\AppInventario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{952D84D0-FEA9-45C4-9EAD-63D39D8DB0FD}|AppInventario.csproj|c:\\users\\2022202060022\\documents\\github\\linguagem_de_programacao_visual_ii\\atividade15-04-2025\\appinventario\\components\\pages\\consulta.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{952D84D0-FEA9-45C4-9EAD-63D39D8DB0FD}|AppInventario.csproj|solutionrelative:components\\pages\\consulta.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952D84D0-FEA9-45C4-9EAD-63D39D8DB0FD}|AppInventario.csproj|c:\\users\\2022202060022\\documents\\github\\linguagem_de_programacao_visual_ii\\atividade15-04-2025\\appinventario\\components\\pages\\segungocadastro.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{952D84D0-FEA9-45C4-9EAD-63D39D8DB0FD}|AppInventario.csproj|solutionrelative:components\\pages\\segungocadastro.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952D84D0-FEA9-45C4-9EAD-63D39D8DB0FD}|AppInventario.csproj|c:\\users\\2022202060022\\documents\\github\\linguagem_de_programacao_visual_ii\\atividade15-04-2025\\appinventario\\components\\pages\\primeirocadastro.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{952D84D0-FEA9-45C4-9EAD-63D39D8DB0FD}|AppInventario.csproj|solutionrelative:components\\pages\\primeirocadastro.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952D84D0-FEA9-45C4-9EAD-63D39D8DB0FD}|AppInventario.csproj|c:\\users\\2022202060022\\documents\\github\\linguagem_de_programacao_visual_ii\\atividade15-04-2025\\appinventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952D84D0-FEA9-45C4-9EAD-63D39D8DB0FD}|AppInventario.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952D84D0-FEA9-45C4-9EAD-63D39D8DB0FD}|AppInventario.csproj|c:\\users\\2022202060022\\documents\\github\\linguagem_de_programacao_visual_ii\\atividade15-04-2025\\appinventario\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{952D84D0-FEA9-45C4-9EAD-63D39D8DB0FD}|AppInventario.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952D84D0-FEA9-45C4-9EAD-63D39D8DB0FD}|AppInventario.csproj|c:\\users\\2022202060022\\documents\\github\\linguagem_de_programacao_visual_ii\\atividade15-04-2025\\appinventario\\services\\propriedadeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952D84D0-FEA9-45C4-9EAD-63D39D8DB0FD}|AppInventario.csproj|solutionrelative:services\\propriedadeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952D84D0-FEA9-45C4-9EAD-63D39D8DB0FD}|AppInventario.csproj|c:\\users\\2022202060022\\documents\\github\\linguagem_de_programacao_visual_ii\\atividade15-04-2025\\appinventario\\context\\contextobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952D84D0-FEA9-45C4-9EAD-63D39D8DB0FD}|AppInventario.csproj|solutionrelative:context\\contextobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952D84D0-FEA9-45C4-9EAD-63D39D8DB0FD}|AppInventario.csproj|c:\\users\\2022202060022\\documents\\github\\linguagem_de_programacao_visual_ii\\atividade15-04-2025\\appinventario\\services\\pessoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952D84D0-FEA9-45C4-9EAD-63D39D8DB0FD}|AppInventario.csproj|solutionrelative:services\\pessoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952D84D0-FEA9-45C4-9EAD-63D39D8DB0FD}|AppInventario.csproj|c:\\users\\2022202060022\\documents\\github\\linguagem_de_programacao_visual_ii\\atividade15-04-2025\\appinventario\\models\\propriedade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952D84D0-FEA9-45C4-9EAD-63D39D8DB0FD}|AppInventario.csproj|solutionrelative:models\\propriedade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952D84D0-FEA9-45C4-9EAD-63D39D8DB0FD}|AppInventario.csproj|c:\\users\\2022202060022\\documents\\github\\linguagem_de_programacao_visual_ii\\atividade15-04-2025\\appinventario\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952D84D0-FEA9-45C4-9EAD-63D39D8DB0FD}|AppInventario.csproj|solutionrelative:models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Consulta.razor",
+              "DocumentMoniker": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividade15-04-2025\\AppInventario\\Components\\Pages\\Consulta.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Consulta.razor",
+              "ToolTip": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividade15-04-2025\\AppInventario\\Components\\Pages\\Consulta.razor",
+              "RelativeToolTip": "Components\\Pages\\Consulta.razor",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAHoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T01:51:38.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SegungoCadastro.razor",
+              "DocumentMoniker": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividade15-04-2025\\AppInventario\\Components\\Pages\\SegungoCadastro.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\SegungoCadastro.razor",
+              "ToolTip": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividade15-04-2025\\AppInventario\\Components\\Pages\\SegungoCadastro.razor",
+              "RelativeToolTip": "Components\\Pages\\SegungoCadastro.razor",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T01:28:50.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrimeiroCadastro.razor",
+              "DocumentMoniker": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividade15-04-2025\\AppInventario\\Components\\Pages\\PrimeiroCadastro.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\PrimeiroCadastro.razor",
+              "ToolTip": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividade15-04-2025\\AppInventario\\Components\\Pages\\PrimeiroCadastro.razor",
+              "RelativeToolTip": "Components\\Pages\\PrimeiroCadastro.razor",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAD0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T00:28:16.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividade15-04-2025\\AppInventario\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividade15-04-2025\\AppInventario\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T00:20:46.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividade15-04-2025\\AppInventario\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividade15-04-2025\\AppInventario\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-16T00:18:11.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PropriedadeService.cs",
+              "DocumentMoniker": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividade15-04-2025\\AppInventario\\Services\\PropriedadeService.cs",
+              "RelativeDocumentMoniker": "Services\\PropriedadeService.cs",
+              "ToolTip": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividade15-04-2025\\AppInventario\\Services\\PropriedadeService.cs",
+              "RelativeToolTip": "Services\\PropriedadeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T00:14:00.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PessoaService.cs",
+              "DocumentMoniker": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividade15-04-2025\\AppInventario\\Services\\PessoaService.cs",
+              "RelativeDocumentMoniker": "Services\\PessoaService.cs",
+              "ToolTip": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividade15-04-2025\\AppInventario\\Services\\PessoaService.cs",
+              "RelativeToolTip": "Services\\PessoaService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T00:08:08.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContextoBD.cs",
+              "DocumentMoniker": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividade15-04-2025\\AppInventario\\Context\\ContextoBD.cs",
+              "RelativeDocumentMoniker": "Context\\ContextoBD.cs",
+              "ToolTip": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividade15-04-2025\\AppInventario\\Context\\ContextoBD.cs",
+              "RelativeToolTip": "Context\\ContextoBD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T00:05:26.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Propriedade.cs",
+              "DocumentMoniker": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividade15-04-2025\\AppInventario\\Models\\Propriedade.cs",
+              "RelativeDocumentMoniker": "Models\\Propriedade.cs",
+              "ToolTip": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividade15-04-2025\\AppInventario\\Models\\Propriedade.cs",
+              "RelativeToolTip": "Models\\Propriedade.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T23:56:19.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividade15-04-2025\\AppInventario\\Models\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Models\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividade15-04-2025\\AppInventario\\Models\\Pessoa.cs",
+              "RelativeToolTip": "Models\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T23:56:04.601Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
