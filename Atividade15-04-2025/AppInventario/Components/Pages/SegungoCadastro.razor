@@ -4,6 +4,7 @@
 @inject NavigationManager navegacao
 @inject PessoaService pessoaService
 @inject PropriedadeService propriedadeService
+@rendermode InteractiveServer
 
 <h3>REGISTRO DE PROPRIEDADES DE PESSOAS COM CADASTRO</h3>
 <div class="container">
@@ -47,11 +48,6 @@
         </div>
     </div>
     <nav class="navbar navbar-light" style="background-color: white"></nav>
-    @if (novo == false)
-    {
-        <button type="button" class="btn btn-success" @onclick="Salvar">SALVAR</button>
-        <button type="button" class="btn btn-primary" @onclick="NovoRegistro">CANCELAR</button>
-    }
 
 
     <nav class="navbar navbar-light" style="background-color: white"></nav>
@@ -78,7 +74,7 @@
         <div class="col">
             <div class="mb-3">
                 <label for="exampleFormControlInput1" class="form-label">VALOR:</label>
-                <input @bind="Valor" type="number" class="form-control" id="exampleFormControlInput1" disabled="@campoBloqueado">
+                <input @bind="Valor" type="number" step="0.01" class="form-control" id="exampleFormControlInput1" disabled="@campoBloqueado">
             </div>
         </div>
         @if (novo == false)
@@ -107,6 +103,13 @@
         </tbody>
     </table>
 
+    @if (novo == false)
+    {
+        <button type="button" class="btn btn-success" @onclick="Salvar">SALVAR</button>
+        <button type="button" class="btn btn-primary" @onclick="NovoRegistro">CANCELAR</button>
+    }
+
+
 </div>
 @code {
     private string? Descricao { get; set; }
@@ -128,6 +131,7 @@
     {
         string cpf = e.Value.ToString();
         pessoa = Pessoas.Where(p => p.Cpf == cpf).FirstOrDefault();
+        bensRegistrados = pessoa.Propriedades;
     }
 
     private void AddBens()

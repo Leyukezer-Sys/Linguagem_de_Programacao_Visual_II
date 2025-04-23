@@ -1,0 +1,97 @@
+﻿@page "/lista"
+@using AppInventario.Models
+@using AppInventario.Services
+@inject NavigationManager navegacao
+@inject PessoaService pessoaService
+@rendermode InteractiveServer
+
+<h3>LISTA DE PESSOAS</h3>
+<div class="container">
+    <nav class="navbar navbar-light" style="background-color: white"></nav>
+    <nav class="navbar navbar-light" style="background-color: darkgreen"></nav>
+
+    <button type="button" class="btn btn-success" @onclick="NovaPessoa">NOVA PESSOA</button>
+    <button type="button" class="btn btn-primary" @onclick="Consultar">CONSULTA</button>
+    <button type="button" class="btn btn-primary" @onclick="ConsultarFiltro">CONSULTA COM FILTRO</button>
+
+
+    <nav class="navbar navbar-light" style="background-color: white"></nav>
+
+    <nav class="navbar navbar-light" style="background-color: darkorange"></nav>
+
+    <nav class="navbar navbar-light" style="background-color: white"></nav>
+
+    <h4 style="text-align:center">Lista de Pessoas com Seus Maiores Bens</h4>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Nome</th>
+                <th>Cpf</th>
+                <th>Propriedade/Descricao</th>
+                <th>Valor</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Pessoas)
+            {
+                <tr>
+                    <td>@item.Nome</td>
+                    <td>@item.Cpf</td>
+                    <td>@getDescricao(item.Propriedades)</td>
+                    <td>@getValor(item.Propriedades)</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>
+
+@code {
+    private Pessoa? pessoa = new Pessoa();
+    private List<Pessoa>? Pessoas { get; set; }
+    private List<Propriedade> bensRegistrados = new List<Propriedade>();
+    private double? somaBens { get; set; } = 0.0;
+
+    protected override async Task OnInitializedAsync()
+    {
+        Pessoas = new List<Pessoa>();
+        var lista = await pessoaService?.Pessoas();
+        Pessoas = lista.ToList();
+
+    }
+
+    public string getDescricao(List<Propriedade> p)
+    {
+        string desc = "";
+
+        double? valor = p.Max(p => p.Valor);
+
+        Propriedade? propriedade = p.Where(p => p.Valor == valor).FirstOrDefault();
+
+        desc = propriedade.Descricao;
+
+        return desc;
+    }
+    
+    public double? getValor(List<Propriedade> p)
+    {
+        double? valor = p.Max(p => p.Valor);
+
+        return valor;
+    }
+
+    public void NovaPessoa()
+    {
+        navegacao.NavigateTo("/primeirocadastro");
+    }
+
+    public void Consultar()
+    {
+        navegacao.NavigateTo("/");
+    }
+
+    public void ConsultarFiltro()
+    {
+        navegacao.NavigateTo("/filtro");
+    }
+}

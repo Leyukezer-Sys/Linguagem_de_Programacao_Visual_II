@@ -1,0 +1,136 @@
+﻿@page "/filtro"
+@using AppInventario.Models
+@using AppInventario.Services
+@inject NavigationManager navegacao
+@inject PessoaService pessoaService
+@rendermode InteractiveServer
+
+<h3>CONSULTAR COM FILTRO</h3>
+<div class="container">
+    <nav class="navbar navbar-light" style="background-color: darkgreen"></nav>
+    <div class="form-group">
+        <label for="input-datalist">Buscar</label>
+        <input type="text" class="form-control" placeholder="Digite o CPF da Pessoa" list="lista-pessoas" @onchange="SelecionarPessoas">
+        <datalist id="lista-pessoas">
+            @foreach (var item in Pessoas)
+            {
+                <option value="@item.Cpf">@item.Nome</option>
+            }
+
+        </datalist>
+    </div>
+
+    <nav class="navbar navbar-light" style="background-color: white"></nav>
+    <nav class="navbar navbar-light" style="background-color: darkgreen"></nav>
+    <nav class="navbar navbar-light" style="background-color: white"></nav>
+
+    <div class="mb-3">
+        <label for="formControlInput1" class="form-label">BUSCA PELA DESCRIÇÃO:</label>
+        <input type="text" class="form-control" id="formControlInput1" @onchange="FiltroDescricao" />
+    </div>
+
+    <div class="row align-items-start">
+        <div class="col">
+            <div class="mb-3">
+                <label for="exampleFormControlInput1" class="form-label">BUSCAR PELO VALOR:</label>
+                <input @bind="Valor" type="number" step="0.01" class="form-control" id="exampleFormControlInput2" >
+                <button type="button" class="btn btn-outline-primary" @onclick="FiltroValor" >BUSCAR</button>
+            </div>
+        </div>
+        <div class="col">
+
+        </div>
+        <div class="col">
+
+        </div>
+    </div>
+
+
+    <nav class="navbar navbar-light" style="background-color: white"></nav>
+
+    <nav class="navbar navbar-light" style="background-color: darkorange"></nav>
+
+    <nav class="navbar navbar-light" style="background-color: white"></nav>
+
+    <h4 style="text-align:center">Bens Registrados</h4>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Descrição</th>
+                <th>Valor</th>
+            </tr>
+        </thead>
+        <tbody>
+
+            @foreach (var item in bensRegistrados)
+            {
+                contBens++;
+            }
+
+            @foreach (var item in bensRegistradosFiltro)
+            {
+                contBensFiltrados++;
+                <tr>
+                    <td>@item.Descricao</td>
+                    <td>@item.Valor</td>
+                </tr>
+            }
+        </tbody>
+        <tfoot>
+            <tr>
+                <td>TOTAL DE BENS FILTRADOS:</td>
+                <td>@contBensFiltrados</td>
+            </tr>
+            <tr>
+                <td>TOTAL DE BENS:</td>
+                <td>@contBens</td>
+            </tr>
+        </tfoot>
+    </table>
+
+</div>
+
+@code {
+    private string? Descricao { get; set; }
+    private double? Valor { get; set; }
+    private Pessoa? pessoa = new Pessoa();
+    private List<Pessoa>? Pessoas { get; set; }
+    private List<Propriedade> bensRegistrados = new List<Propriedade>();
+    private List<Propriedade> bensRegistradosFiltro = new List<Propriedade>();
+    private int contBens { get; set; } = 0;
+    private int contBensFiltrados { get; set; } = 0;
+
+    protected override async Task OnInitializedAsync()
+    {
+        Pessoas = new List<Pessoa>();
+        var lista = await pessoaService?.Pessoas();
+        Pessoas = lista.ToList();
+    }
+
+    public void SelecionarPessoas(ChangeEventArgs e)
+    {
+        string cpf = e.Value.ToString();
+        var p = Pessoas.Where(p => p.Cpf == cpf).FirstOrDefault();
+        if (p != null)
+        {
+            pessoa = p;
+            bensRegistrados.Clear();
+            bensRegistrados = pessoa.Propriedades;
+        }
+    }
+
+    public void FiltroDescricao(ChangeEventArgs e)
+    {
+        bensRegistradosFiltro.Clear();
+        string descricao = e.Value.ToString();
+        if(descricao != null) if ( descricao.Length > 3) bensRegistradosFiltro =
+        bensRegistrados.Where(b => b.Descricao.Contains(descricao)).ToList();
+    }
+    
+    public void FiltroValor()
+    {
+        bensRegistradosFiltro.Clear();
+        if(Valor != null) bensRegistradosFiltro =
+        bensRegistrados.Where(b => b.Valor == Valor).ToList();
+    }
+}

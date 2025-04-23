@@ -3,6 +3,7 @@
 @using AppInventario.Services
 @inject PessoaService pessoaService
 @inject NavigationManager navegacao
+@rendermode InteractiveServer
 
 <h3>PRIMEIRO REGISTRO DE PESSOA COM PROPRIEDADES</h3>
 
@@ -35,13 +36,6 @@
 		</div>
 	</div>
 
-	<nav class="navbar navbar-light" style="background-color: white"></nav>
-	@if (novo == false)
-	{
-		<button type="button" class="btn btn-success" @onclick="Salvar">SALVAR</button>
-		<button type="button" class="btn btn-primary" @onclick="Cancelar">CANCELAR</button>
-	}
-
 
 	<nav class="navbar navbar-light" style="background-color: white"></nav>
 
@@ -59,7 +53,7 @@
 		<div class="col">
 			<div class="mb-3">
 				<label for="exampleFormControlInput1" class="form-label">VALOR:</label>
-				<input @bind="Valor" type="number" class="form-control" id="exampleFormControlInput1" disabled="@campoBloqueado">
+				<input @bind="Valor" type="number" step="0.01" class="form-control" id="exampleFormControlInput1" disabled="@campoBloqueado">
 			</div>
 		</div>
 		@if (novo == false)
@@ -91,6 +85,13 @@
 	</div>
 
 	<nav class="navbar navbar-light" style="background-color: white"></nav>
+	<nav class="navbar navbar-light" style="background-color: white"></nav>
+	@if (novo == false)
+	{
+		<button type="button" class="btn btn-success" @onclick="Salvar">SALVAR</button>
+		<button type="button" class="btn btn-primary" @onclick="Cancelar">CANCELAR</button>
+	}
+
 
 	@if (novo)
 	{
