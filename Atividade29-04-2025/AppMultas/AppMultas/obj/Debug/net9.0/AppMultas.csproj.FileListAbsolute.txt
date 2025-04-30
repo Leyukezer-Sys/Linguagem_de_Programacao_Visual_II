@@ -1,0 +1,7 @@
+C:\Users\2022202060022\Documents\GitHub\Linguagem_de_Programacao_Visual_II\Atividade29-04-2025\SistemaDeMulta\SistemaDeMulta\obj\Debug\net9.0\AppMultas.csproj.AssemblyReference.cache
+C:\Users\2022202060022\Documents\GitHub\Linguagem_de_Programacao_Visual_II\Atividade29-04-2025\SistemaDeMulta\SistemaDeMulta\obj\Debug\net9.0\AppMultas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022202060022\Documents\GitHub\Linguagem_de_Programacao_Visual_II\Atividade29-04-2025\SistemaDeMulta\SistemaDeMulta\obj\Debug\net9.0\AppMultas.AssemblyInfoInputs.cache
+C:\Users\2022202060022\Documents\GitHub\Linguagem_de_Programacao_Visual_II\Atividade29-04-2025\SistemaDeMulta\SistemaDeMulta\obj\Debug\net9.0\AppMultas.AssemblyInfo.cs
+C:\Users\2022202060022\Documents\GitHub\Linguagem_de_Programacao_Visual_II\Atividade29-04-2025\SistemaDeMulta\SistemaDeMulta\obj\Debug\net9.0\AppMultas.csproj.CoreCompileInputs.cache
+C:\Users\2022202060022\Documents\GitHub\Linguagem_de_Programacao_Visual_II\Atividade29-04-2025\SistemaDeMulta\SistemaDeMulta\obj\Debug\net9.0\AppMultas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2022202060022\Documents\GitHub\Linguagem_de_Programacao_Visual_II\Atividade29-04-2025\SistemaDeMulta\SistemaDeMulta\obj\Debug\net9.0\AppMultas.sourcelink.json
