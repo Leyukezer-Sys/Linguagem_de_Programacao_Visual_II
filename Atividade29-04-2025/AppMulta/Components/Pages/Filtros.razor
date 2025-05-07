@@ -1,0 +1,142 @@
+﻿@page "/filtro"
+@using AppMulta.Models
+@using AppMulta.Controllers
+@inject VeiculoController veiculoController
+@inject NavigationManager navegacao
+@rendermode InteractiveServer
+
+<h3>CONSULTA DE MULTAS</h3>
+
+<div class="container">
+    <nav class="navbar navbar-light" style="background-color: white"></nav>
+
+    <nav class="navbar navbar-light" style="background-color: darkgreen"></nav>
+
+    <button type="button" class="btn btn-primary" @onclick="NovoRegistro">Novo Registro</button>
+    <button type="button" class="btn btn-success" @onclick="AtualizarRegistro">Atualizar Registro</button>
+
+
+    <nav class="navbar navbar-light" style="background-color: white"></nav>
+
+    <nav class="navbar navbar-light" style="background-color: darkgreen"></nav>
+
+    <label for="veiculo" class="form-label">CARROS CADASTRADOS:</label>
+    <select class="form-select" aria-label="Selecione um carro" @onchange="SelecionarVeiculo">
+        <option selected>Selecione uma placa</option>
+        @foreach (var item in listaVeiculos)
+        {
+            <option value=@item.Id>@item.Placa</option>
+        }
+    </select>
+
+    <nav class="navbar navbar-light" style="background-color: white"></nav>
+
+    <nav class="navbar navbar-light" style="background-color: darkgreen"></nav>
+    <div class="row align-items-start">
+        <div class="col">
+            <div class="mb-3">
+                <label for="exampleFormControlInput1" class="form-label">Digite o valor minimo da multa:</label>
+                <input @bind="valorMultaAcima" type="number" size="0.01" class="form-control" id="exampleFormControlInput1" placeholder="Digite um valor minimo">
+                <button type="button" class="btn btn-dark" @onclick="FiltroAcima">Buscar</button>
+
+            </div>
+        </div>
+        <div class="col">
+            <div class="mb-3">
+                <label for="exampleFormControlInput1" class="form-label">Digite uma Descricao da multa:</label>
+                <input @bind="descricaoMulta" type="text" class="form-control" id="exampleFormControlInput1">
+                <button type="button" class="btn btn-dark" @onclick="FiltroDescricao">Buscar</button>
+            </div>
+        </div>
+        <div class="col">
+            <div class="mb-3">
+                <label for="exampleFormControlInput1" class="form-label">TOTAL DE MULTAS:</label>
+                <input @bind="totalMultas" type="number" class="form-control" id="exampleFormControlInput1" disabled>
+            </div>
+        </div>
+
+    </div>
+
+    <nav class="navbar navbar-light" style="background-color: white"></nav>
+
+    <nav class="navbar navbar-light" style="background-color: darkgreen"></nav>
+
+    <nav class="navbar navbar-light" style="background-color: white"></nav>
+    @*###################################################################*@
+
+    <h4 style="text-align:center">MULTAS REGISTRADAS</h4>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Descrição:</th>
+                <th>Valor:</th>
+            </tr>
+        </thead>
+        <tbody>
+
+            @foreach (var multa in listaMultasFiltro)
+            {
+                contMultas ++;
+
+                <tr>
+                    <td>@multa.Descricao</td>
+                    <td>R$ @multa.Valor</td>
+                </tr>
+            }
+        </tbody>
+        <tfoot>
+            <tr>
+                <th>Total Multas Filtradas</th>
+                <th>@contMultas</th>
+            </tr>
+        </tfoot>
+    </table>
+</div>
+
+@code {
+    public List<Multa> listaMultas = new List<Multa>();
+    public List<Multa> listaMultasFiltro = new List<Multa>();
+    public List<Veiculo> listaVeiculos = new List<Veiculo>();
+    public Veiculo? veiculo { get; set; } = new Veiculo();
+    public int contMultas { get; set; } = 0;
+    public int totalMultas { get; set; } = 0;
+    public double? valorMultaAcima { get; set; }
+    public string? descricaoMulta { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        var veiculos = await veiculoController.ListaDeVeiculos();
+        listaVeiculos = veiculos;
+    }
+
+    public void SelecionarVeiculo(ChangeEventArgs e)
+    {
+        int id = Convert.ToInt32(e.Value);
+        veiculo = listaVeiculos.FirstOrDefault(v => v.Id == id);
+        listaMultas = veiculo.Multas;
+        foreach (var item in listaMultas)
+        {
+            totalMultas++;
+        }
+    }
+
+    public void FiltroAcima()
+    {
+        listaMultasFiltro = listaMultas.Where(m => m.Valor >= valorMultaAcima).ToList();
+    }
+
+    public void FiltroDescricao()
+    {
+        listaMultasFiltro = listaMultas.Where(m => m.Descricao.Equals(descricaoMulta)).ToList();
+    }
+
+    public void AtualizarRegistro()
+    {
+        navegacao.NavigateTo("/segundocadastro", forceLoad: true);
+    }
+
+    public void NovoRegistro()
+    {
+        navegacao.NavigateTo("/cadastro", forceLoad: true);
+    }
+}

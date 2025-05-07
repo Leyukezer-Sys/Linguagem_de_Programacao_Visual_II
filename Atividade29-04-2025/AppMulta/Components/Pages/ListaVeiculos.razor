@@ -1,0 +1,70 @@
+﻿@page "/lista"
+@using AppMulta.Models
+@using AppMulta.Controllers
+@inject VeiculoController veiculoController
+@inject NavigationManager navegacao
+@rendermode InteractiveServer
+
+<h3>ListaVeiculos</h3>
+
+<div class="container">
+    <h4 style="text-align:center">VEICULOS REGISTRADAS</h4>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Modelo</th>
+                <th>Marca</th>
+                <th>Placa</th>
+                <th>Multa/Descricao</th>
+                <th>Multa/Valor</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in listaVeiculos)
+            {
+
+                <tr>
+                    <td>@item.Modelo</td>
+                    <td>@item.Marca</td>
+                    <td>@item.Placa</td>
+                    <td>@getDescricao(item)</td>
+                    <td>@getValor(item)</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+@code {
+
+    public List<Veiculo> listaVeiculos = new List<Veiculo>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        var veiculos = await veiculoController.ListaDeVeiculos();
+        listaVeiculos = veiculos;
+    }
+
+    public string getDescricao(Veiculo veiculo)
+    {
+        string descricao = "";
+
+        var listaMulta = veiculo.Multas;
+
+        double? maiorValor = listaMulta.Max(m => m.Valor);
+
+        Multa multa = listaMulta.FirstOrDefault(m => m.Valor == maiorValor);
+
+        descricao = multa.Descricao;
+
+        return descricao;
+    }
+
+    public double? getValor(Veiculo veiculo)
+    {
+        var listaMulta = veiculo.Multas;
+
+        double? maiorValor = listaMulta.Max(m => m.Valor);
+
+        return maiorValor;
+    }
+}
