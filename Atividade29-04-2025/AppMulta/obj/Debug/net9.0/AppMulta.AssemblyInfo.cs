@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppMulta")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3437dd026d323dab4063c789f678ee32baa905bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppMulta")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppMulta")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
