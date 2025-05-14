@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D0850D6B-124A-41D5-AB66-595F78144FFA}|AppConcurso.csproj|c:\\users\\2022202060022\\documents\\github\\linguagem_de_programacao_visual_ii\\appconcurso\\controllers\\cargocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0850D6B-124A-41D5-AB66-595F78144FFA}|AppConcurso.csproj|solutionrelative:controllers\\cargocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D0850D6B-124A-41D5-AB66-595F78144FFA}|AppConcurso.csproj|c:\\users\\2022202060022\\documents\\github\\linguagem_de_programacao_visual_ii\\appconcurso\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D0850D6B-124A-41D5-AB66-595F78144FFA}|AppConcurso.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -33,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D0850D6B-124A-41D5-AB66-595F78144FFA}|AppConcurso.csproj|c:\\users\\2022202060022\\documents\\github\\linguagem_de_programacao_visual_ii\\appconcurso\\controllers\\candidatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0850D6B-124A-41D5-AB66-595F78144FFA}|AppConcurso.csproj|solutionrelative:controllers\\candidatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0850D6B-124A-41D5-AB66-595F78144FFA}|AppConcurso.csproj|c:\\users\\2022202060022\\documents\\github\\linguagem_de_programacao_visual_ii\\appconcurso\\controllers\\cargocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0850D6B-124A-41D5-AB66-595F78144FFA}|AppConcurso.csproj|solutionrelative:controllers\\cargocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0850D6B-124A-41D5-AB66-595F78144FFA}|AppConcurso.csproj|c:\\users\\2022202060022\\documents\\github\\linguagem_de_programacao_visual_ii\\appconcurso\\components\\pages\\lancamentonotas.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -74,11 +74,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
@@ -91,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
@@ -104,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "InscricaoCandidato.razor",
               "DocumentMoniker": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\Components\\Pages\\InscricaoCandidato.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\InscricaoCandidato.razor",
@@ -117,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CadastroCargo.razor",
               "DocumentMoniker": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\Components\\Pages\\CadastroCargo.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\CadastroCargo.razor",
@@ -130,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "CadastroCandidato.razor",
               "DocumentMoniker": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\Components\\Pages\\CadastroCandidato.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\CadastroCandidato.razor",
@@ -143,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "InscricaoController.cs",
               "DocumentMoniker": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\Controllers\\InscricaoController.cs",
               "RelativeDocumentMoniker": "Controllers\\InscricaoController.cs",
@@ -156,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "CandidatoInscrito.razor",
               "DocumentMoniker": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\Components\\Pages\\CandidatoInscrito.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\CandidatoInscrito.razor",
@@ -169,20 +169,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "CargoController.cs",
               "DocumentMoniker": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\Controllers\\CargoController.cs",
               "RelativeDocumentMoniker": "Controllers\\CargoController.cs",
               "ToolTip": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\Controllers\\CargoController.cs",
               "RelativeToolTip": "Controllers\\CargoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T23:27:39.135Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "CandidatoController.cs",
               "DocumentMoniker": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\Controllers\\CandidatoController.cs",
               "RelativeDocumentMoniker": "Controllers\\CandidatoController.cs",
