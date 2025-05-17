@@ -22,10 +22,15 @@ namespace AppConcurso.Controllers
         {
             await _context.Inscricoes.AddAsync(inscricao);
         }
-        
+        public void Update(Inscricao inscricao)
+        {
+            _context.Inscricoes.Update(inscricao);
+        }
+
         public async Task SalvarInscricao()
         {
             await _context.SaveChangesAsync(); 
         }
+
     }
 }

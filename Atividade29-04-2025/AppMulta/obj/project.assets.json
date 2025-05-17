@@ -719,23 +719,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\2022202060022\\.nuget\\packages\\": {},
+    "C:\\Users\\Leyukezer\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividade29-04-2025\\AppMulta\\AppMulta.csproj",
+      "projectUniqueName": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividade29-04-2025\\AppMulta\\AppMulta.csproj",
       "projectName": "AppMulta",
-      "projectPath": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividade29-04-2025\\AppMulta\\AppMulta.csproj",
-      "packagesPath": "C:\\Users\\2022202060022\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividade29-04-2025\\AppMulta\\obj\\",
+      "projectPath": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividade29-04-2025\\AppMulta\\AppMulta.csproj",
+      "packagesPath": "C:\\Users\\Leyukezer\\.nuget\\packages\\",
+      "outputPath": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividade29-04-2025\\AppMulta\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\2022202060022\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Leyukezer\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -793,7 +793,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

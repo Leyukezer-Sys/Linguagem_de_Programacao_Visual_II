@@ -3,44 +3,48 @@
   "WorkspaceRootPath": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D0850D6B-124A-41D5-AB66-595F78144FFA}|AppConcurso.csproj|d:\\leyukezer\\documents\\github\\linguagem_de_programacao_visual_ii\\appconcurso\\components\\pages\\candidatoinscrito.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D0850D6B-124A-41D5-AB66-595F78144FFA}|AppConcurso.csproj|solutionrelative:components\\pages\\candidatoinscrito.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0850D6B-124A-41D5-AB66-595F78144FFA}|AppConcurso.csproj|d:\\leyukezer\\documents\\github\\linguagem_de_programacao_visual_ii\\appconcurso\\controllers\\cargocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0850D6B-124A-41D5-AB66-595F78144FFA}|AppConcurso.csproj|solutionrelative:controllers\\cargocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0850D6B-124A-41D5-AB66-595F78144FFA}|AppConcurso.csproj|d:\\leyukezer\\documents\\github\\linguagem_de_programacao_visual_ii\\appconcurso\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D0850D6B-124A-41D5-AB66-595F78144FFA}|AppConcurso.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D0850D6B-124A-41D5-AB66-595F78144FFA}|AppConcurso.csproj|d:\\leyukezer\\documents\\github\\linguagem_de_programacao_visual_ii\\appconcurso\\components\\pages\\cadastrocargo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0850D6B-124A-41D5-AB66-595F78144FFA}|AppConcurso.csproj|solutionrelative:components\\pages\\cadastrocargo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0850D6B-124A-41D5-AB66-595F78144FFA}|AppConcurso.csproj|d:\\leyukezer\\documents\\github\\linguagem_de_programacao_visual_ii\\appconcurso\\components\\pages\\inscricaocandidato.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D0850D6B-124A-41D5-AB66-595F78144FFA}|AppConcurso.csproj|solutionrelative:components\\pages\\inscricaocandidato.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0850D6B-124A-41D5-AB66-595F78144FFA}|AppConcurso.csproj|d:\\leyukezer\\documents\\github\\linguagem_de_programacao_visual_ii\\appconcurso\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D0850D6B-124A-41D5-AB66-595F78144FFA}|AppConcurso.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D0850D6B-124A-41D5-AB66-595F78144FFA}|AppConcurso.csproj|d:\\leyukezer\\documents\\github\\linguagem_de_programacao_visual_ii\\appconcurso\\components\\pages\\lancamentonotas.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0850D6B-124A-41D5-AB66-595F78144FFA}|AppConcurso.csproj|solutionrelative:components\\pages\\lancamentonotas.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0850D6B-124A-41D5-AB66-595F78144FFA}|AppConcurso.csproj|d:\\leyukezer\\documents\\github\\linguagem_de_programacao_visual_ii\\appconcurso\\components\\pages\\cadastrocargo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D0850D6B-124A-41D5-AB66-595F78144FFA}|AppConcurso.csproj|solutionrelative:components\\pages\\cadastrocargo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0850D6B-124A-41D5-AB66-595F78144FFA}|AppConcurso.csproj|d:\\leyukezer\\documents\\github\\linguagem_de_programacao_visual_ii\\appconcurso\\components\\pages\\cadastrocandidato.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D0850D6B-124A-41D5-AB66-595F78144FFA}|AppConcurso.csproj|solutionrelative:components\\pages\\cadastrocandidato.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D0850D6B-124A-41D5-AB66-595F78144FFA}|AppConcurso.csproj|d:\\leyukezer\\documents\\github\\linguagem_de_programacao_visual_ii\\appconcurso\\components\\pages\\cadastrocandidatoincricao.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0850D6B-124A-41D5-AB66-595F78144FFA}|AppConcurso.csproj|solutionrelative:components\\pages\\cadastrocandidatoincricao.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0850D6B-124A-41D5-AB66-595F78144FFA}|AppConcurso.csproj|d:\\leyukezer\\documents\\github\\linguagem_de_programacao_visual_ii\\appconcurso\\controllers\\inscricaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0850D6B-124A-41D5-AB66-595F78144FFA}|AppConcurso.csproj|solutionrelative:controllers\\inscricaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0850D6B-124A-41D5-AB66-595F78144FFA}|AppConcurso.csproj|d:\\leyukezer\\documents\\github\\linguagem_de_programacao_visual_ii\\appconcurso\\controllers\\candidatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0850D6B-124A-41D5-AB66-595F78144FFA}|AppConcurso.csproj|solutionrelative:controllers\\candidatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0850D6B-124A-41D5-AB66-595F78144FFA}|AppConcurso.csproj|d:\\leyukezer\\documents\\github\\linguagem_de_programacao_visual_ii\\appconcurso\\components\\pages\\cadastrocandidato.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0850D6B-124A-41D5-AB66-595F78144FFA}|AppConcurso.csproj|solutionrelative:components\\pages\\cadastrocandidato.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0850D6B-124A-41D5-AB66-595F78144FFA}|AppConcurso.csproj|d:\\leyukezer\\documents\\github\\linguagem_de_programacao_visual_ii\\appconcurso\\components\\pages\\lancamentonotas.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D0850D6B-124A-41D5-AB66-595F78144FFA}|AppConcurso.csproj|solutionrelative:components\\pages\\lancamentonotas.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D0850D6B-124A-41D5-AB66-595F78144FFA}|AppConcurso.csproj|d:\\leyukezer\\documents\\github\\linguagem_de_programacao_visual_ii\\appconcurso\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0850D6B-124A-41D5-AB66-595F78144FFA}|AppConcurso.csproj|solutionrelative:components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0850D6B-124A-41D5-AB66-595F78144FFA}|AppConcurso.csproj|d:\\leyukezer\\documents\\github\\linguagem_de_programacao_visual_ii\\appconcurso\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0850D6B-124A-41D5-AB66-595F78144FFA}|AppConcurso.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0850D6B-124A-41D5-AB66-595F78144FFA}|AppConcurso.csproj|d:\\leyukezer\\documents\\github\\linguagem_de_programacao_visual_ii\\appconcurso\\controllers\\cargocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0850D6B-124A-41D5-AB66-595F78144FFA}|AppConcurso.csproj|solutionrelative:controllers\\cargocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0850D6B-124A-41D5-AB66-595F78144FFA}|AppConcurso.csproj|d:\\leyukezer\\documents\\github\\linguagem_de_programacao_visual_ii\\appconcurso\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0850D6B-124A-41D5-AB66-595F78144FFA}|AppConcurso.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0850D6B-124A-41D5-AB66-595F78144FFA}|AppConcurso.csproj|d:\\leyukezer\\documents\\github\\linguagem_de_programacao_visual_ii\\appconcurso\\controllers\\candidatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0850D6B-124A-41D5-AB66-595F78144FFA}|AppConcurso.csproj|solutionrelative:controllers\\candidatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0850D6B-124A-41D5-AB66-595F78144FFA}|AppConcurso.csproj|d:\\leyukezer\\documents\\github\\linguagem_de_programacao_visual_ii\\appconcurso\\models\\candidato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,27 +74,54 @@
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 183,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "CadastroCandidatoIncricao.razor",
+              "DocumentMoniker": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\Components\\Pages\\CadastroCandidatoIncricao.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\CadastroCandidatoIncricao.razor",
+              "ToolTip": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\Components\\Pages\\CadastroCandidatoIncricao.razor",
+              "RelativeToolTip": "Components\\Pages\\CadastroCandidatoIncricao.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T16:53:57.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Counter.razor",
+              "ToolTip": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "Components\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T16:11:52.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Home.razor",
               "DocumentMoniker": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
               "ToolTip": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "Components\\Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T02:12:30.334Z"
+              "WhenOpened": "2025-05-14T02:12:30.334Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
@@ -102,68 +133,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "InscricaoCandidato.razor",
               "DocumentMoniker": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\Components\\Pages\\InscricaoCandidato.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\InscricaoCandidato.razor",
               "ToolTip": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\Components\\Pages\\InscricaoCandidato.razor",
               "RelativeToolTip": "Components\\Pages\\InscricaoCandidato.razor",
-              "ViewState": "AgIAAFYAAAAAAAAAAAD4v3kAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAlwIUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T01:54:05.229Z"
+              "WhenOpened": "2025-05-14T01:54:05.229Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "CadastroCargo.razor",
               "DocumentMoniker": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\Components\\Pages\\CadastroCargo.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\CadastroCargo.razor",
               "ToolTip": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\Components\\Pages\\CadastroCargo.razor",
               "RelativeToolTip": "Components\\Pages\\CadastroCargo.razor",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAEEAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAHoAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T00:05:41.913Z"
+              "WhenOpened": "2025-05-14T00:05:41.913Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "CadastroCandidato.razor",
               "DocumentMoniker": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\Components\\Pages\\CadastroCandidato.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\CadastroCandidato.razor",
               "ToolTip": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\Components\\Pages\\CadastroCandidato.razor",
               "RelativeToolTip": "Components\\Pages\\CadastroCandidato.razor",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEEAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T00:05:56.234Z"
+              "WhenOpened": "2025-05-14T00:05:56.234Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "InscricaoController.cs",
               "DocumentMoniker": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\Controllers\\InscricaoController.cs",
               "RelativeDocumentMoniker": "Controllers\\InscricaoController.cs",
               "ToolTip": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\Controllers\\InscricaoController.cs",
               "RelativeToolTip": "Controllers\\InscricaoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T23:30:33.741Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CandidatoInscrito.razor",
-              "DocumentMoniker": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\Components\\Pages\\CandidatoInscrito.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\CandidatoInscrito.razor",
-              "ToolTip": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\Components\\Pages\\CandidatoInscrito.razor",
-              "RelativeToolTip": "Components\\Pages\\CandidatoInscrito.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T00:06:23.548Z",
+              "WhenOpened": "2025-05-13T23:30:33.741Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "CargoController.cs",
               "DocumentMoniker": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\Controllers\\CargoController.cs",
               "RelativeDocumentMoniker": "Controllers\\CargoController.cs",
@@ -171,12 +193,11 @@
               "RelativeToolTip": "Controllers\\CargoController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T23:27:39.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T23:27:39.135Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "CandidatoController.cs",
               "DocumentMoniker": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\Controllers\\CandidatoController.cs",
               "RelativeDocumentMoniker": "Controllers\\CandidatoController.cs",
@@ -184,23 +205,25 @@
               "RelativeToolTip": "Controllers\\CandidatoController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T23:27:25.425Z"
+              "WhenOpened": "2025-05-13T23:27:25.425Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "LancamentoNotas.razor",
               "DocumentMoniker": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\Components\\Pages\\LancamentoNotas.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\LancamentoNotas.razor",
               "ToolTip": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\Components\\Pages\\LancamentoNotas.razor",
               "RelativeToolTip": "Components\\Pages\\LancamentoNotas.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T00:06:40.213Z"
+              "WhenOpened": "2025-05-14T00:06:40.213Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Candidato.cs",
               "DocumentMoniker": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\Models\\Candidato.cs",
               "RelativeDocumentMoniker": "Models\\Candidato.cs",
@@ -208,11 +231,12 @@
               "RelativeToolTip": "Models\\Candidato.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T23:26:16.354Z"
+              "WhenOpened": "2025-05-13T23:26:16.354Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Cargo.cs",
               "DocumentMoniker": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\Models\\Cargo.cs",
               "RelativeDocumentMoniker": "Models\\Cargo.cs",
@@ -220,11 +244,12 @@
               "RelativeToolTip": "Models\\Cargo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T23:34:47.106Z"
+              "WhenOpened": "2025-05-13T23:34:47.106Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Inscricao.cs",
               "DocumentMoniker": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\Models\\Inscricao.cs",
               "RelativeDocumentMoniker": "Models\\Inscricao.cs",
@@ -232,11 +257,12 @@
               "RelativeToolTip": "Models\\Inscricao.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T23:35:42.907Z"
+              "WhenOpened": "2025-05-13T23:35:42.907Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "ContextBD.cs",
               "DocumentMoniker": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\Contexto\\ContextBD.cs",
               "RelativeDocumentMoniker": "Contexto\\ContextBD.cs",
@@ -248,7 +274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -260,7 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",

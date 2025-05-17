@@ -22,7 +22,7 @@
 				<button type="button" class="btn btn-outline-primary" @onclick="CadastrarCandidato">NOVO CANDIDATO</button>
 			</div>
 			<div class="col mx-2">
-				<button type="button" class="btn btn-outline-success" @onclick="CadastrarInscricao">NOVO CANDIDATO</button>
+				<button type="button" class="btn btn-outline-success" @onclick="CadastrarInscricao">NOVA INSCRIÇÃO</button>
 			</div>
 		</div>
 	}
@@ -120,7 +120,7 @@
 
 	public void NovoRegistro()
 	{
-		cargo = new Cargo();
+		navegacao.NavigateTo("/cadastrocargo", forceLoad: true);
 	}
 
 	public void CadastrarCandidato()

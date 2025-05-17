@@ -9,69 +9,69 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AppMulta
 build_property.RootNamespace = AppMulta
-build_property.ProjectDir = C:\Users\2022202060022\Documents\GitHub\Linguagem_de_Programacao_Visual_II\Atividade29-04-2025\AppMulta\
+build_property.ProjectDir = D:\Leyukezer\Documents\GitHub\Linguagem_de_Programacao_Visual_II\Atividade29-04-2025\AppMulta\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\2022202060022\Documents\GitHub\Linguagem_de_Programacao_Visual_II\Atividade29-04-2025\AppMulta
+build_property.MSBuildProjectDirectory = D:\Leyukezer\Documents\GitHub\Linguagem_de_Programacao_Visual_II\Atividade29-04-2025\AppMulta
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/2022202060022/Documents/GitHub/Linguagem_de_Programacao_Visual_II/Atividade29-04-2025/AppMulta/Components/App.razor]
+[D:/Leyukezer/Documents/GitHub/Linguagem_de_Programacao_Visual_II/Atividade29-04-2025/AppMulta/Components/App.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/2022202060022/Documents/GitHub/Linguagem_de_Programacao_Visual_II/Atividade29-04-2025/AppMulta/Components/Pages/Consulta.razor]
+[D:/Leyukezer/Documents/GitHub/Linguagem_de_Programacao_Visual_II/Atividade29-04-2025/AppMulta/Components/Pages/Consulta.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb25zdWx0YS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/2022202060022/Documents/GitHub/Linguagem_de_Programacao_Visual_II/Atividade29-04-2025/AppMulta/Components/Pages/Counter.razor]
+[D:/Leyukezer/Documents/GitHub/Linguagem_de_Programacao_Visual_II/Atividade29-04-2025/AppMulta/Components/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/2022202060022/Documents/GitHub/Linguagem_de_Programacao_Visual_II/Atividade29-04-2025/AppMulta/Components/Pages/Error.razor]
+[D:/Leyukezer/Documents/GitHub/Linguagem_de_Programacao_Visual_II/Atividade29-04-2025/AppMulta/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/2022202060022/Documents/GitHub/Linguagem_de_Programacao_Visual_II/Atividade29-04-2025/AppMulta/Components/Pages/Filtros.razor]
+[D:/Leyukezer/Documents/GitHub/Linguagem_de_Programacao_Visual_II/Atividade29-04-2025/AppMulta/Components/Pages/Filtros.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xGaWx0cm9zLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/2022202060022/Documents/GitHub/Linguagem_de_Programacao_Visual_II/Atividade29-04-2025/AppMulta/Components/Pages/Home.razor]
+[D:/Leyukezer/Documents/GitHub/Linguagem_de_Programacao_Visual_II/Atividade29-04-2025/AppMulta/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/2022202060022/Documents/GitHub/Linguagem_de_Programacao_Visual_II/Atividade29-04-2025/AppMulta/Components/Pages/ListaVeiculos.razor]
+[D:/Leyukezer/Documents/GitHub/Linguagem_de_Programacao_Visual_II/Atividade29-04-2025/AppMulta/Components/Pages/ListaVeiculos.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMaXN0YVZlaWN1bG9zLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/2022202060022/Documents/GitHub/Linguagem_de_Programacao_Visual_II/Atividade29-04-2025/AppMulta/Components/Pages/PrimeiroCadastro.razor]
+[D:/Leyukezer/Documents/GitHub/Linguagem_de_Programacao_Visual_II/Atividade29-04-2025/AppMulta/Components/Pages/PrimeiroCadastro.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcmltZWlyb0NhZGFzdHJvLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/2022202060022/Documents/GitHub/Linguagem_de_Programacao_Visual_II/Atividade29-04-2025/AppMulta/Components/Pages/SegundoCadastro.razor]
+[D:/Leyukezer/Documents/GitHub/Linguagem_de_Programacao_Visual_II/Atividade29-04-2025/AppMulta/Components/Pages/SegundoCadastro.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTZWd1bmRvQ2FkYXN0cm8ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/2022202060022/Documents/GitHub/Linguagem_de_Programacao_Visual_II/Atividade29-04-2025/AppMulta/Components/Pages/Weather.razor]
+[D:/Leyukezer/Documents/GitHub/Linguagem_de_Programacao_Visual_II/Atividade29-04-2025/AppMulta/Components/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/2022202060022/Documents/GitHub/Linguagem_de_Programacao_Visual_II/Atividade29-04-2025/AppMulta/Components/Routes.razor]
+[D:/Leyukezer/Documents/GitHub/Linguagem_de_Programacao_Visual_II/Atividade29-04-2025/AppMulta/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/2022202060022/Documents/GitHub/Linguagem_de_Programacao_Visual_II/Atividade29-04-2025/AppMulta/Components/_Imports.razor]
+[D:/Leyukezer/Documents/GitHub/Linguagem_de_Programacao_Visual_II/Atividade29-04-2025/AppMulta/Components/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/2022202060022/Documents/GitHub/Linguagem_de_Programacao_Visual_II/Atividade29-04-2025/AppMulta/Components/Layout/MainLayout.razor]
+[D:/Leyukezer/Documents/GitHub/Linguagem_de_Programacao_Visual_II/Atividade29-04-2025/AppMulta/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-ysd74hczsh
 
-[C:/Users/2022202060022/Documents/GitHub/Linguagem_de_Programacao_Visual_II/Atividade29-04-2025/AppMulta/Components/Layout/NavMenu.razor]
+[D:/Leyukezer/Documents/GitHub/Linguagem_de_Programacao_Visual_II/Atividade29-04-2025/AppMulta/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-i57ml46p9t
