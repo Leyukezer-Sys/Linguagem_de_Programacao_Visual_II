@@ -1,0 +1,138 @@
+﻿@page "/cadastrocargo"
+@using AppConcurso_v2.Models
+@using AppConcurso_v2.Controllers
+@inject CargoController cargoControl
+@inject NavigationManager navegacao
+@rendermode InteractiveServer
+
+<PageTitle>Novo Cargo</PageTitle>
+
+<h1>NOVO CARGO</h1>
+
+<div class="container">
+
+	@if (campoBloqueado)
+	{
+		<div class="alert alert-success" role="alert">
+			Salvo com Sucesso!!
+		</div>
+		<div class="row">
+			<div class="col mx-2">
+				<button type="button" class="btn btn-outline-primary" @onclick="NovoRegistro">NOVO REGISTRO</button>
+			</div>
+			<div class="col mx-2">
+				<button type="button" class="btn btn-outline-primary" @onclick="CadastrarCandidato">NOVO CANDIDATO</button>
+			</div>
+			<div class="col mx-2">
+				<button type="button" class="btn btn-outline-success" @onclick="CadastrarInscricao">NOVA INSCRIÇÃO</button>
+			</div>
+		</div>
+	}
+	@if (check)
+	{
+		<div class="alert alert-danger" role="alert">
+			Preencha o Nome!
+		</div>
+	}
+
+	<div class="mb-3">
+		<label class="form-label" for="txtName">Nome:<a style="color:red; font-weight:bold">*</a></label>
+		<input @bind="cargo.Nome" class="form-control" id="txtName" type="text" placeholder="Insira o Nome do cargo" disabled="@campoBloqueado" />
+	</div>
+	<div class="row">
+		<div class="col">
+			<div class="mb-3">
+				<label class="form-label" for="txtEdital">Edital:</label>
+				<input @bind="cargo.Edital" class="form-control" id="txtEdital" type="text" placeholder="Insira o Edital do cargo" disabled="@campoBloqueado" />
+			</div>
+		</div>
+		<div class="col">
+			<div class="mb-3">
+				<label class="form-label" for="txtSalario">Salario:</label>
+				<input @bind="cargo.Salario" class="form-control" id="txtSalario" type="number" step="0.01" placeholder="Insira o Salário Base do cargo" disabled="@campoBloqueado" />
+			</div>
+		</div>
+	</div>
+
+	<nav class="navbar navbar-light my-3" style="background-color: rebeccapurple"></nav>
+	@if (!campoBloqueado)
+	{
+		<button type="button" class="btn btn-success" @onclick="Salvar" disabled="@campoBloqueado">SALVAR</button>
+		<button type="button" class="btn btn-danger" @onclick="NovoRegistro" disabled="@campoBloqueado">CANCELAR</button>
+	}
+
+	<nav class="navbar navbar-light my-5" style="background-color: black"></nav>
+
+	<h3>Cagos Cadastrados</h3>
+
+	<table class="table table-striped">
+		<thead>
+			<tr>
+				<th>Nome</th>
+				<th>Edital</th>
+				<th>Salario Base</th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var item in lista_cargos)
+			{
+				<tr>
+					<td>@item.Nome</td>
+					<td>@item.Edital</td>
+					<td>R$ @item.Salario.Value</td>
+				</tr>
+			}
+		</tbody>
+	</table>
+
+</div>
+
+@code {
+	public List<Cargo> lista_cargos = new List<Cargo>();
+	public Cargo cargo = new Cargo();
+	private bool campoBloqueado = false;
+	private bool check = false;
+
+	protected override async Task OnInitializedAsync()
+	{
+		var lista = await cargoControl.ListaCargo();
+		if (lista != null)
+		{
+			lista_cargos = lista;
+		}
+	}
+
+	public async Task Salvar()
+	{
+		cargo.Nome.TrimStart();
+		if (cargo.Nome != null && !cargo.Nome.Equals(""))
+		{
+			await cargoControl.Add(cargo);
+			await cargoControl.Salvar();
+			var lista = await cargoControl.ListaCargo();
+			lista_cargos = lista;
+			campoBloqueado = true;
+
+		}
+		else
+		{
+			check = true;
+		}
+
+	}
+
+	public void NovoRegistro()
+	{
+		navegacao.NavigateTo("/cadastrocargo", forceLoad: true);
+	}
+
+	public void CadastrarCandidato()
+	{
+		navegacao.NavigateTo("/cadastrocandidato");
+	}
+
+	public void CadastrarInscricao()
+	{
+		navegacao.NavigateTo("/inscricao");
+	}
+}
