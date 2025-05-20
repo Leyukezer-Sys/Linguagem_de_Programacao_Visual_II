@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "DppxvZRVXaxe4XG2ue3TXM5Okeiq7WCxKZTGx6dWGeI=",
+  "Hash": "Cd+ixwxL+qdmAxs+JW3uhdjrLHrWFphD98mSUrTX8YA=",
   "Source": "AppConcurso_v2",
   "BasePath": "_content/AppConcurso_v2",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "AppConcurso_v2\\wwwroot",
       "Source": "AppConcurso_v2",
-      "ContentRoot": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso_v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\wwwroot\\",
       "BasePath": "_content/AppConcurso_v2",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso_v2\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AppConcurso_v2.styles.css",
+      "Identity": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AppConcurso_v2.styles.css",
       "SourceId": "AppConcurso_v2",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso_v2\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/AppConcurso_v2",
       "RelativePath": "AppConcurso_v2#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "NOVJkF9lEb58v8NkaQhlZimTD6E/zXU5A6tbg38olxM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso_v2\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AppConcurso_v2.styles.css"
+      "OriginalItemSpec": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AppConcurso_v2.styles.css"
     },
     {
-      "Identity": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso_v2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AppConcurso_v2.bundle.scp.css",
+      "Identity": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AppConcurso_v2.bundle.scp.css",
       "SourceId": "AppConcurso_v2",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso_v2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/AppConcurso_v2",
       "RelativePath": "AppConcurso_v2#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "NOVJkF9lEb58v8NkaQhlZimTD6E/zXU5A6tbg38olxM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso_v2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AppConcurso_v2.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AppConcurso_v2.bundle.scp.css"
     },
     {
-      "Identity": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso_v2\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\wwwroot\\app.css",
       "SourceId": "AppConcurso_v2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso_v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\wwwroot\\",
       "BasePath": "_content/AppConcurso_v2",
       "RelativePath": "app#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso_v2\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "AppConcurso_v2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso_v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\wwwroot\\",
       "BasePath": "_content/AppConcurso_v2",
       "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -94,17 +94,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "n0p6pfkbgs",
-      "Integrity": "JxmP3yTegV0KI6hgIRZfLgk0b7gaXLl8HKjsx2aqL3o=",
+      "Fingerprint": "yze25wd0x2",
+      "Integrity": "bi3zwC9n97N0ifgw/3XbDg1uMq0ESYYJPSNHm3/OCiE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso_v2\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "AppConcurso_v2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso_v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\wwwroot\\",
       "BasePath": "_content/AppConcurso_v2",
       "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso_v2\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\wwwroot\\favicon.png",
       "SourceId": "AppConcurso_v2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso_v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\wwwroot\\",
       "BasePath": "_content/AppConcurso_v2",
       "RelativePath": "favicon#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso_v2\\wwwroot\\logo-concurso.png",
+      "Identity": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\wwwroot\\logo-concurso.png",
       "SourceId": "AppConcurso_v2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso_v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\wwwroot\\",
       "BasePath": "_content/AppConcurso_v2",
       "RelativePath": "logo-concurso#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -167,7 +167,7 @@
   "Endpoints": [
     {
       "Route": "app.b6znn0bteh.css",
-      "AssetFile": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso_v2\\wwwroot\\app.css",
+      "AssetFile": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -188,7 +188,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 17:49:09 GMT"
+          "Value": "Tue, 20 May 2025 23:21:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -212,7 +212,7 @@
     },
     {
       "Route": "app.css",
-      "AssetFile": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso_v2\\wwwroot\\app.css",
+      "AssetFile": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -233,7 +233,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 17:49:09 GMT"
+          "Value": "Tue, 20 May 2025 23:21:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -249,7 +249,7 @@
     },
     {
       "Route": "AppConcurso_v2.87bqas3j9a.bundle.scp.css",
-      "AssetFile": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso_v2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AppConcurso_v2.bundle.scp.css",
+      "AssetFile": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AppConcurso_v2.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -270,7 +270,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 14:53:03 GMT"
+          "Value": "Tue, 20 May 2025 23:21:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -294,7 +294,7 @@
     },
     {
       "Route": "AppConcurso_v2.87bqas3j9a.styles.css",
-      "AssetFile": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso_v2\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AppConcurso_v2.styles.css",
+      "AssetFile": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AppConcurso_v2.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -315,7 +315,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 14:53:03 GMT"
+          "Value": "Tue, 20 May 2025 23:21:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -339,7 +339,7 @@
     },
     {
       "Route": "AppConcurso_v2.bundle.scp.css",
-      "AssetFile": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso_v2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AppConcurso_v2.bundle.scp.css",
+      "AssetFile": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AppConcurso_v2.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -360,7 +360,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 14:53:03 GMT"
+          "Value": "Tue, 20 May 2025 23:21:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -376,7 +376,7 @@
     },
     {
       "Route": "AppConcurso_v2.styles.css",
-      "AssetFile": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso_v2\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AppConcurso_v2.styles.css",
+      "AssetFile": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AppConcurso_v2.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -397,7 +397,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 14:53:03 GMT"
+          "Value": "Tue, 20 May 2025 23:21:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -413,7 +413,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.css",
-      "AssetFile": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso_v2\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\wwwroot\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -422,7 +422,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "163022"
+          "Value": "163080"
         },
         {
           "Name": "Content-Type",
@@ -430,11 +430,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JxmP3yTegV0KI6hgIRZfLgk0b7gaXLl8HKjsx2aqL3o=\""
+          "Value": "\"bi3zwC9n97N0ifgw/3XbDg1uMq0ESYYJPSNHm3/OCiE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 17:48:54 GMT"
+          "Value": "Tue, 20 May 2025 23:21:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -444,13 +444,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-JxmP3yTegV0KI6hgIRZfLgk0b7gaXLl8HKjsx2aqL3o="
+          "Value": "sha256-bi3zwC9n97N0ifgw/3XbDg1uMq0ESYYJPSNHm3/OCiE="
         }
       ]
     },
     {
       "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso_v2\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -471,7 +471,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 14:27:36 GMT"
+          "Value": "Tue, 20 May 2025 23:21:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -495,7 +495,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.css.map",
-      "AssetFile": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso_v2\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -516,7 +516,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 14:27:36 GMT"
+          "Value": "Tue, 20 May 2025 23:21:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -531,8 +531,8 @@
       ]
     },
     {
-      "Route": "bootstrap/bootstrap.min.n0p6pfkbgs.css",
-      "AssetFile": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso_v2\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Route": "bootstrap/bootstrap.min.yze25wd0x2.css",
+      "AssetFile": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\wwwroot\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -541,7 +541,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "163022"
+          "Value": "163080"
         },
         {
           "Name": "Content-Type",
@@ -549,11 +549,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JxmP3yTegV0KI6hgIRZfLgk0b7gaXLl8HKjsx2aqL3o=\""
+          "Value": "\"bi3zwC9n97N0ifgw/3XbDg1uMq0ESYYJPSNHm3/OCiE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 17:48:54 GMT"
+          "Value": "Tue, 20 May 2025 23:21:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -563,7 +563,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "n0p6pfkbgs"
+          "Value": "yze25wd0x2"
         },
         {
           "Name": "label",
@@ -571,13 +571,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-JxmP3yTegV0KI6hgIRZfLgk0b7gaXLl8HKjsx2aqL3o="
+          "Value": "sha256-bi3zwC9n97N0ifgw/3XbDg1uMq0ESYYJPSNHm3/OCiE="
         }
       ]
     },
     {
       "Route": "favicon.bt2lqihix0.png",
-      "AssetFile": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso_v2\\wwwroot\\favicon.png",
+      "AssetFile": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -598,7 +598,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 14:49:48 GMT"
+          "Value": "Tue, 20 May 2025 23:21:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -622,7 +622,7 @@
     },
     {
       "Route": "favicon.png",
-      "AssetFile": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso_v2\\wwwroot\\favicon.png",
+      "AssetFile": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -643,7 +643,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 14:49:48 GMT"
+          "Value": "Tue, 20 May 2025 23:21:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -659,7 +659,7 @@
     },
     {
       "Route": "logo-concurso.0cso77bzuw.png",
-      "AssetFile": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso_v2\\wwwroot\\logo-concurso.png",
+      "AssetFile": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\wwwroot\\logo-concurso.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -680,7 +680,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 17:05:40 GMT"
+          "Value": "Tue, 20 May 2025 23:21:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -704,7 +704,7 @@
     },
     {
       "Route": "logo-concurso.png",
-      "AssetFile": "D:\\Leyukezer\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso_v2\\wwwroot\\logo-concurso.png",
+      "AssetFile": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\AppConcurso\\wwwroot\\logo-concurso.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -725,7 +725,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 17:05:40 GMT"
+          "Value": "Tue, 20 May 2025 23:21:54 GMT"
         },
         {
           "Name": "Cache-Control",
