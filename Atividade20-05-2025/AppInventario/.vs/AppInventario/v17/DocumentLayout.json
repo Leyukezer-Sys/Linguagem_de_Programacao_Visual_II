@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividade20-05-2025\\AppInventario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD02B5A-EBDD-42CC-B021-1BBCC9C544B1}|AppInventario\\AppInventario.csproj|c:\\users\\2022202060022\\documents\\github\\linguagem_de_programacao_visual_ii\\atividade20-05-2025\\appinventario\\appinventario\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DD02B5A-EBDD-42CC-B021-1BBCC9C544B1}|AppInventario\\AppInventario.csproj|solutionrelative:appinventario\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD02B5A-EBDD-42CC-B021-1BBCC9C544B1}|AppInventario\\AppInventario.csproj|c:\\users\\2022202060022\\documents\\github\\linguagem_de_programacao_visual_ii\\atividade20-05-2025\\appinventario\\appinventario\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DD02B5A-EBDD-42CC-B021-1BBCC9C544B1}|AppInventario\\AppInventario.csproj|solutionrelative:appinventario\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD02B5A-EBDD-42CC-B021-1BBCC9C544B1}|AppInventario\\AppInventario.csproj|c:\\users\\2022202060022\\documents\\github\\linguagem_de_programacao_visual_ii\\atividade20-05-2025\\appinventario\\appinventario\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DD02B5A-EBDD-42CC-B021-1BBCC9C544B1}|AppInventario\\AppInventario.csproj|solutionrelative:appinventario\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD02B5A-EBDD-42CC-B021-1BBCC9C544B1}|AppInventario\\AppInventario.csproj|c:\\users\\2022202060022\\documents\\github\\linguagem_de_programacao_visual_ii\\atividade20-05-2025\\appinventario\\appinventario\\components\\account\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DD02B5A-EBDD-42CC-B021-1BBCC9C544B1}|AppInventario\\AppInventario.csproj|solutionrelative:appinventario\\components\\account\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividade20-05-2025\\AppInventario\\AppInventario\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "AppInventario\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividade20-05-2025\\AppInventario\\AppInventario\\Components\\Routes.razor",
+              "RelativeToolTip": "AppInventario\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T00:27:06.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividade20-05-2025\\AppInventario\\AppInventario\\Components\\App.razor",
+              "RelativeDocumentMoniker": "AppInventario\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividade20-05-2025\\AppInventario\\AppInventario\\Components\\App.razor",
+              "RelativeToolTip": "AppInventario\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T00:23:42.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividade20-05-2025\\AppInventario\\AppInventario\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "AppInventario\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividade20-05-2025\\AppInventario\\AppInventario\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "AppInventario\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T00:17:13.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividade20-05-2025\\AppInventario\\AppInventario\\Components\\Account\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "AppInventario\\Components\\Account\\Pages\\Login.razor",
+              "ToolTip": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividade20-05-2025\\AppInventario\\AppInventario\\Components\\Account\\Pages\\Login.razor",
+              "RelativeToolTip": "AppInventario\\Components\\Account\\Pages\\Login.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T00:12:53.912Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
