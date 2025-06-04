@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1skfgPKB+J+xhixwoBJmaKx0Tbd06cdgykTjLUhmzUc=",
+  "Hash": "FtPfiO7pePtp/eBjiOPt3cqxiWa+RohkzsnEuxbAcQM=",
   "Source": "AppMultaImpressao",
   "BasePath": "_content/AppMultaImpressao",
   "Mode": "Default",
@@ -206,6 +206,27 @@
       "OriginalItemSpec": "wwwroot\\RelatoriosTemp\\Relatorio_0ef17c9c-26ba-4b44-a51d-0b434c9562ff.pdf"
     },
     {
+      "Identity": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividades03-06-2025\\AppMultaImpressao\\AppMultaImpressao\\wwwroot\\RelatoriosTemp\\Relatorio_29f5e294-ff13-4d92-a0ed-ca03997a3063.pdf",
+      "SourceId": "AppMultaImpressao",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividades03-06-2025\\AppMultaImpressao\\AppMultaImpressao\\wwwroot\\",
+      "BasePath": "_content/AppMultaImpressao",
+      "RelativePath": "RelatoriosTemp/Relatorio_29f5e294-ff13-4d92-a0ed-ca03997a3063#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8op9k1u92n",
+      "Integrity": "yL1r/d864Cmuruh21n/Hh0HNScoo61BQk1gKv7zGaNI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\RelatoriosTemp\\Relatorio_29f5e294-ff13-4d92-a0ed-ca03997a3063.pdf"
+    },
+    {
       "Identity": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividades03-06-2025\\AppMultaImpressao\\AppMultaImpressao\\wwwroot\\RelatoriosTemp\\Relatorio_3fef6337-e990-4afb-a490-0b7204dbcb27.pdf",
       "SourceId": "AppMultaImpressao",
       "SourceType": "Discovered",
@@ -246,6 +267,69 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\RelatoriosTemp\\Relatorio_4ce62319-026b-417d-a4ba-73d01ae642f1.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividades03-06-2025\\AppMultaImpressao\\AppMultaImpressao\\wwwroot\\RelatoriosTemp\\Relatorio_51985609-7909-4856-9e07-ad98b3625169.pdf",
+      "SourceId": "AppMultaImpressao",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividades03-06-2025\\AppMultaImpressao\\AppMultaImpressao\\wwwroot\\",
+      "BasePath": "_content/AppMultaImpressao",
+      "RelativePath": "RelatoriosTemp/Relatorio_51985609-7909-4856-9e07-ad98b3625169#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fd0ovko2qz",
+      "Integrity": "42Z8J3xtnAxJP8OlEDx3MdmtmHrJ0KGj08DB07JYXOs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\RelatoriosTemp\\Relatorio_51985609-7909-4856-9e07-ad98b3625169.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividades03-06-2025\\AppMultaImpressao\\AppMultaImpressao\\wwwroot\\RelatoriosTemp\\Relatorio_6d5d78d5-3cc8-45e8-bd57-f3a9aa035bf8.pdf",
+      "SourceId": "AppMultaImpressao",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividades03-06-2025\\AppMultaImpressao\\AppMultaImpressao\\wwwroot\\",
+      "BasePath": "_content/AppMultaImpressao",
+      "RelativePath": "RelatoriosTemp/Relatorio_6d5d78d5-3cc8-45e8-bd57-f3a9aa035bf8#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4kl630ewkq",
+      "Integrity": "pHVobTozl2o7mU4wpl5ZKtg13HgFZIZ+soRIZ0sZCTw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\RelatoriosTemp\\Relatorio_6d5d78d5-3cc8-45e8-bd57-f3a9aa035bf8.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividades03-06-2025\\AppMultaImpressao\\AppMultaImpressao\\wwwroot\\RelatoriosTemp\\Relatorio_769bfadd-d19b-4a58-be8f-dce988965930.pdf",
+      "SourceId": "AppMultaImpressao",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividades03-06-2025\\AppMultaImpressao\\AppMultaImpressao\\wwwroot\\",
+      "BasePath": "_content/AppMultaImpressao",
+      "RelativePath": "RelatoriosTemp/Relatorio_769bfadd-d19b-4a58-be8f-dce988965930#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "t2drd3bfzj",
+      "Integrity": "C/wEsNUEdiu9H4DhAbTKlD8vS2Dy5mhrIT/F53f77uA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\RelatoriosTemp\\Relatorio_769bfadd-d19b-4a58-be8f-dce988965930.pdf"
     },
     {
       "Identity": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividades03-06-2025\\AppMultaImpressao\\AppMultaImpressao\\wwwroot\\RelatoriosTemp\\Relatorio_8955eaf0-f0d0-4275-b5a8-cbc89be79994.pdf",
@@ -311,6 +395,27 @@
       "OriginalItemSpec": "wwwroot\\RelatoriosTemp\\Relatorio_b5b1c3a6-f1f3-4b75-b53c-67083d6a45a6.pdf"
     },
     {
+      "Identity": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividades03-06-2025\\AppMultaImpressao\\AppMultaImpressao\\wwwroot\\RelatoriosTemp\\Relatorio_bb01c2e4-9e0c-4296-9529-8695b9f7ec63.pdf",
+      "SourceId": "AppMultaImpressao",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividades03-06-2025\\AppMultaImpressao\\AppMultaImpressao\\wwwroot\\",
+      "BasePath": "_content/AppMultaImpressao",
+      "RelativePath": "RelatoriosTemp/Relatorio_bb01c2e4-9e0c-4296-9529-8695b9f7ec63#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4ivtuzmuoh",
+      "Integrity": "vG5dpyfsrTpNCdu3AixdXc50p6jHU6miPCoIfWSQ9Eg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\RelatoriosTemp\\Relatorio_bb01c2e4-9e0c-4296-9529-8695b9f7ec63.pdf"
+    },
+    {
       "Identity": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividades03-06-2025\\AppMultaImpressao\\AppMultaImpressao\\wwwroot\\RelatoriosTemp\\Relatorio_c08e9b86-6119-4434-9df0-71fe27763869.pdf",
       "SourceId": "AppMultaImpressao",
       "SourceType": "Discovered",
@@ -330,6 +435,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\RelatoriosTemp\\Relatorio_c08e9b86-6119-4434-9df0-71fe27763869.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividades03-06-2025\\AppMultaImpressao\\AppMultaImpressao\\wwwroot\\RelatoriosTemp\\Relatorio_ec66a221-fe67-44b1-b4f5-eca0dd56de93.pdf",
+      "SourceId": "AppMultaImpressao",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividades03-06-2025\\AppMultaImpressao\\AppMultaImpressao\\wwwroot\\",
+      "BasePath": "_content/AppMultaImpressao",
+      "RelativePath": "RelatoriosTemp/Relatorio_ec66a221-fe67-44b1-b4f5-eca0dd56de93#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zs8pjutm5x",
+      "Integrity": "LYygLvSmqyXoClBUw6enFe+oLHNDvGJk9vVK/6VwlYM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\RelatoriosTemp\\Relatorio_ec66a221-fe67-44b1-b4f5-eca0dd56de93.pdf"
     },
     {
       "Identity": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividades03-06-2025\\AppMultaImpressao\\AppMultaImpressao\\wwwroot\\RelatoriosTemp\\Relatorio_ed76f904-9568-4ae1-b7f8-24f485eabfef.pdf",
@@ -372,6 +498,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\RelatoriosTemp\\Relatorio_f2eb37a9-5700-4af8-a885-4b4afbf0388e.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividades03-06-2025\\AppMultaImpressao\\AppMultaImpressao\\wwwroot\\RelatoriosTemp\\Relatorio_f96dd73f-6942-47a0-87e0-c88d14e43feb.pdf",
+      "SourceId": "AppMultaImpressao",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividades03-06-2025\\AppMultaImpressao\\AppMultaImpressao\\wwwroot\\",
+      "BasePath": "_content/AppMultaImpressao",
+      "RelativePath": "RelatoriosTemp/Relatorio_f96dd73f-6942-47a0-87e0-c88d14e43feb#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\RelatoriosTemp\\Relatorio_f96dd73f-6942-47a0-87e0-c88d14e43feb.pdf"
     }
   ],
   "Endpoints": [
@@ -1114,6 +1261,88 @@
       ]
     },
     {
+      "Route": "RelatoriosTemp/Relatorio_29f5e294-ff13-4d92-a0ed-ca03997a3063.8op9k1u92n.pdf",
+      "AssetFile": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividades03-06-2025\\AppMultaImpressao\\AppMultaImpressao\\wwwroot\\RelatoriosTemp\\Relatorio_29f5e294-ff13-4d92-a0ed-ca03997a3063.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "203098"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yL1r/d864Cmuruh21n/Hh0HNScoo61BQk1gKv7zGaNI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Jun 2025 01:38:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8op9k1u92n"
+        },
+        {
+          "Name": "label",
+          "Value": "RelatoriosTemp/Relatorio_29f5e294-ff13-4d92-a0ed-ca03997a3063.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yL1r/d864Cmuruh21n/Hh0HNScoo61BQk1gKv7zGaNI="
+        }
+      ]
+    },
+    {
+      "Route": "RelatoriosTemp/Relatorio_29f5e294-ff13-4d92-a0ed-ca03997a3063.pdf",
+      "AssetFile": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividades03-06-2025\\AppMultaImpressao\\AppMultaImpressao\\wwwroot\\RelatoriosTemp\\Relatorio_29f5e294-ff13-4d92-a0ed-ca03997a3063.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "203098"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yL1r/d864Cmuruh21n/Hh0HNScoo61BQk1gKv7zGaNI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Jun 2025 01:38:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yL1r/d864Cmuruh21n/Hh0HNScoo61BQk1gKv7zGaNI="
+        }
+      ]
+    },
+    {
       "Route": "RelatoriosTemp/Relatorio_3fef6337-e990-4afb-a490-0b7204dbcb27.b5tka6eirh.pdf",
       "AssetFile": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividades03-06-2025\\AppMultaImpressao\\AppMultaImpressao\\wwwroot\\RelatoriosTemp\\Relatorio_3fef6337-e990-4afb-a490-0b7204dbcb27.pdf",
       "Selectors": [],
@@ -1274,6 +1503,252 @@
         {
           "Name": "integrity",
           "Value": "sha256-Ic0+ts3t41mlLFVePVwzed1akoWMpg8nZQTlBluvbik="
+        }
+      ]
+    },
+    {
+      "Route": "RelatoriosTemp/Relatorio_51985609-7909-4856-9e07-ad98b3625169.fd0ovko2qz.pdf",
+      "AssetFile": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividades03-06-2025\\AppMultaImpressao\\AppMultaImpressao\\wwwroot\\RelatoriosTemp\\Relatorio_51985609-7909-4856-9e07-ad98b3625169.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "234728"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"42Z8J3xtnAxJP8OlEDx3MdmtmHrJ0KGj08DB07JYXOs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Jun 2025 00:36:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fd0ovko2qz"
+        },
+        {
+          "Name": "label",
+          "Value": "RelatoriosTemp/Relatorio_51985609-7909-4856-9e07-ad98b3625169.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-42Z8J3xtnAxJP8OlEDx3MdmtmHrJ0KGj08DB07JYXOs="
+        }
+      ]
+    },
+    {
+      "Route": "RelatoriosTemp/Relatorio_51985609-7909-4856-9e07-ad98b3625169.pdf",
+      "AssetFile": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividades03-06-2025\\AppMultaImpressao\\AppMultaImpressao\\wwwroot\\RelatoriosTemp\\Relatorio_51985609-7909-4856-9e07-ad98b3625169.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "234728"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"42Z8J3xtnAxJP8OlEDx3MdmtmHrJ0KGj08DB07JYXOs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Jun 2025 00:36:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-42Z8J3xtnAxJP8OlEDx3MdmtmHrJ0KGj08DB07JYXOs="
+        }
+      ]
+    },
+    {
+      "Route": "RelatoriosTemp/Relatorio_6d5d78d5-3cc8-45e8-bd57-f3a9aa035bf8.4kl630ewkq.pdf",
+      "AssetFile": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividades03-06-2025\\AppMultaImpressao\\AppMultaImpressao\\wwwroot\\RelatoriosTemp\\Relatorio_6d5d78d5-3cc8-45e8-bd57-f3a9aa035bf8.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "191718"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pHVobTozl2o7mU4wpl5ZKtg13HgFZIZ+soRIZ0sZCTw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Jun 2025 01:15:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4kl630ewkq"
+        },
+        {
+          "Name": "label",
+          "Value": "RelatoriosTemp/Relatorio_6d5d78d5-3cc8-45e8-bd57-f3a9aa035bf8.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pHVobTozl2o7mU4wpl5ZKtg13HgFZIZ+soRIZ0sZCTw="
+        }
+      ]
+    },
+    {
+      "Route": "RelatoriosTemp/Relatorio_6d5d78d5-3cc8-45e8-bd57-f3a9aa035bf8.pdf",
+      "AssetFile": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividades03-06-2025\\AppMultaImpressao\\AppMultaImpressao\\wwwroot\\RelatoriosTemp\\Relatorio_6d5d78d5-3cc8-45e8-bd57-f3a9aa035bf8.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "191718"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pHVobTozl2o7mU4wpl5ZKtg13HgFZIZ+soRIZ0sZCTw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Jun 2025 01:15:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pHVobTozl2o7mU4wpl5ZKtg13HgFZIZ+soRIZ0sZCTw="
+        }
+      ]
+    },
+    {
+      "Route": "RelatoriosTemp/Relatorio_769bfadd-d19b-4a58-be8f-dce988965930.pdf",
+      "AssetFile": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividades03-06-2025\\AppMultaImpressao\\AppMultaImpressao\\wwwroot\\RelatoriosTemp\\Relatorio_769bfadd-d19b-4a58-be8f-dce988965930.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "217740"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C/wEsNUEdiu9H4DhAbTKlD8vS2Dy5mhrIT/F53f77uA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Jun 2025 00:36:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-C/wEsNUEdiu9H4DhAbTKlD8vS2Dy5mhrIT/F53f77uA="
+        }
+      ]
+    },
+    {
+      "Route": "RelatoriosTemp/Relatorio_769bfadd-d19b-4a58-be8f-dce988965930.t2drd3bfzj.pdf",
+      "AssetFile": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividades03-06-2025\\AppMultaImpressao\\AppMultaImpressao\\wwwroot\\RelatoriosTemp\\Relatorio_769bfadd-d19b-4a58-be8f-dce988965930.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "217740"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C/wEsNUEdiu9H4DhAbTKlD8vS2Dy5mhrIT/F53f77uA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Jun 2025 00:36:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t2drd3bfzj"
+        },
+        {
+          "Name": "label",
+          "Value": "RelatoriosTemp/Relatorio_769bfadd-d19b-4a58-be8f-dce988965930.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-C/wEsNUEdiu9H4DhAbTKlD8vS2Dy5mhrIT/F53f77uA="
         }
       ]
     },
@@ -1524,6 +1999,88 @@
       ]
     },
     {
+      "Route": "RelatoriosTemp/Relatorio_bb01c2e4-9e0c-4296-9529-8695b9f7ec63.4ivtuzmuoh.pdf",
+      "AssetFile": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividades03-06-2025\\AppMultaImpressao\\AppMultaImpressao\\wwwroot\\RelatoriosTemp\\Relatorio_bb01c2e4-9e0c-4296-9529-8695b9f7ec63.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "269842"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vG5dpyfsrTpNCdu3AixdXc50p6jHU6miPCoIfWSQ9Eg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Jun 2025 01:38:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4ivtuzmuoh"
+        },
+        {
+          "Name": "label",
+          "Value": "RelatoriosTemp/Relatorio_bb01c2e4-9e0c-4296-9529-8695b9f7ec63.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vG5dpyfsrTpNCdu3AixdXc50p6jHU6miPCoIfWSQ9Eg="
+        }
+      ]
+    },
+    {
+      "Route": "RelatoriosTemp/Relatorio_bb01c2e4-9e0c-4296-9529-8695b9f7ec63.pdf",
+      "AssetFile": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividades03-06-2025\\AppMultaImpressao\\AppMultaImpressao\\wwwroot\\RelatoriosTemp\\Relatorio_bb01c2e4-9e0c-4296-9529-8695b9f7ec63.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "269842"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vG5dpyfsrTpNCdu3AixdXc50p6jHU6miPCoIfWSQ9Eg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Jun 2025 01:38:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vG5dpyfsrTpNCdu3AixdXc50p6jHU6miPCoIfWSQ9Eg="
+        }
+      ]
+    },
+    {
       "Route": "RelatoriosTemp/Relatorio_c08e9b86-6119-4434-9df0-71fe27763869.gtmepfuauv.pdf",
       "AssetFile": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividades03-06-2025\\AppMultaImpressao\\AppMultaImpressao\\wwwroot\\RelatoriosTemp\\Relatorio_c08e9b86-6119-4434-9df0-71fe27763869.pdf",
       "Selectors": [],
@@ -1602,6 +2159,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-BCDXXFxWwKEAIOmpNnTvB1GeNRCF1fpAY5+2YXv7PaU="
+        }
+      ]
+    },
+    {
+      "Route": "RelatoriosTemp/Relatorio_ec66a221-fe67-44b1-b4f5-eca0dd56de93.pdf",
+      "AssetFile": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividades03-06-2025\\AppMultaImpressao\\AppMultaImpressao\\wwwroot\\RelatoriosTemp\\Relatorio_ec66a221-fe67-44b1-b4f5-eca0dd56de93.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "203098"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LYygLvSmqyXoClBUw6enFe+oLHNDvGJk9vVK/6VwlYM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Jun 2025 01:38:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LYygLvSmqyXoClBUw6enFe+oLHNDvGJk9vVK/6VwlYM="
+        }
+      ]
+    },
+    {
+      "Route": "RelatoriosTemp/Relatorio_ec66a221-fe67-44b1-b4f5-eca0dd56de93.zs8pjutm5x.pdf",
+      "AssetFile": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividades03-06-2025\\AppMultaImpressao\\AppMultaImpressao\\wwwroot\\RelatoriosTemp\\Relatorio_ec66a221-fe67-44b1-b4f5-eca0dd56de93.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "203098"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LYygLvSmqyXoClBUw6enFe+oLHNDvGJk9vVK/6VwlYM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Jun 2025 01:38:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zs8pjutm5x"
+        },
+        {
+          "Name": "label",
+          "Value": "RelatoriosTemp/Relatorio_ec66a221-fe67-44b1-b4f5-eca0dd56de93.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LYygLvSmqyXoClBUw6enFe+oLHNDvGJk9vVK/6VwlYM="
         }
       ]
     },
@@ -1766,6 +2405,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-FQtszA1OMYCX70mOYK8xWNAGT1e/66XAMNkAMUDY3NU="
+        }
+      ]
+    },
+    {
+      "Route": "RelatoriosTemp/Relatorio_f96dd73f-6942-47a0-87e0-c88d14e43feb.5ipweew5fc.pdf",
+      "AssetFile": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividades03-06-2025\\AppMultaImpressao\\AppMultaImpressao\\wwwroot\\RelatoriosTemp\\Relatorio_f96dd73f-6942-47a0-87e0-c88d14e43feb.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Jun 2025 01:16:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "RelatoriosTemp/Relatorio_f96dd73f-6942-47a0-87e0-c88d14e43feb.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "RelatoriosTemp/Relatorio_f96dd73f-6942-47a0-87e0-c88d14e43feb.pdf",
+      "AssetFile": "C:\\Users\\2022202060022\\Documents\\GitHub\\Linguagem_de_Programacao_Visual_II\\Atividades03-06-2025\\AppMultaImpressao\\AppMultaImpressao\\wwwroot\\RelatoriosTemp\\Relatorio_f96dd73f-6942-47a0-87e0-c88d14e43feb.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Jun 2025 01:16:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
         }
       ]
     }

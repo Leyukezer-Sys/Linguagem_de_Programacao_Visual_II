@@ -144,6 +144,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\RelatoriosTemp\Relatorio_0ef17c9c-26ba-4b44-a51d-0b434c9562ff.pdf'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\RelatoriosTemp\Relatorio_29f5e294-ff13-4d92-a0ed-ca03997a3063.pdf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>AppMultaImpressao</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/AppMultaImpressao</BasePath>
+      <RelativePath>RelatoriosTemp/Relatorio_29f5e294-ff13-4d92-a0ed-ca03997a3063.pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>8op9k1u92n</Fingerprint>
+      <Integrity>yL1r/d864Cmuruh21n/Hh0HNScoo61BQk1gKv7zGaNI=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\RelatoriosTemp\Relatorio_29f5e294-ff13-4d92-a0ed-ca03997a3063.pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\RelatoriosTemp\Relatorio_3fef6337-e990-4afb-a490-0b7204dbcb27.pdf'))">
       <SourceType>Package</SourceType>
       <SourceId>AppMultaImpressao</SourceId>
@@ -179,6 +197,60 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\RelatoriosTemp\Relatorio_4ce62319-026b-417d-a4ba-73d01ae642f1.pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\RelatoriosTemp\Relatorio_51985609-7909-4856-9e07-ad98b3625169.pdf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>AppMultaImpressao</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/AppMultaImpressao</BasePath>
+      <RelativePath>RelatoriosTemp/Relatorio_51985609-7909-4856-9e07-ad98b3625169.pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>fd0ovko2qz</Fingerprint>
+      <Integrity>42Z8J3xtnAxJP8OlEDx3MdmtmHrJ0KGj08DB07JYXOs=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\RelatoriosTemp\Relatorio_51985609-7909-4856-9e07-ad98b3625169.pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\RelatoriosTemp\Relatorio_6d5d78d5-3cc8-45e8-bd57-f3a9aa035bf8.pdf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>AppMultaImpressao</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/AppMultaImpressao</BasePath>
+      <RelativePath>RelatoriosTemp/Relatorio_6d5d78d5-3cc8-45e8-bd57-f3a9aa035bf8.pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>4kl630ewkq</Fingerprint>
+      <Integrity>pHVobTozl2o7mU4wpl5ZKtg13HgFZIZ+soRIZ0sZCTw=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\RelatoriosTemp\Relatorio_6d5d78d5-3cc8-45e8-bd57-f3a9aa035bf8.pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\RelatoriosTemp\Relatorio_769bfadd-d19b-4a58-be8f-dce988965930.pdf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>AppMultaImpressao</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/AppMultaImpressao</BasePath>
+      <RelativePath>RelatoriosTemp/Relatorio_769bfadd-d19b-4a58-be8f-dce988965930.pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>t2drd3bfzj</Fingerprint>
+      <Integrity>C/wEsNUEdiu9H4DhAbTKlD8vS2Dy5mhrIT/F53f77uA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\RelatoriosTemp\Relatorio_769bfadd-d19b-4a58-be8f-dce988965930.pdf'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\RelatoriosTemp\Relatorio_8955eaf0-f0d0-4275-b5a8-cbc89be79994.pdf'))">
       <SourceType>Package</SourceType>
@@ -234,6 +306,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\RelatoriosTemp\Relatorio_b5b1c3a6-f1f3-4b75-b53c-67083d6a45a6.pdf'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\RelatoriosTemp\Relatorio_bb01c2e4-9e0c-4296-9529-8695b9f7ec63.pdf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>AppMultaImpressao</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/AppMultaImpressao</BasePath>
+      <RelativePath>RelatoriosTemp/Relatorio_bb01c2e4-9e0c-4296-9529-8695b9f7ec63.pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>4ivtuzmuoh</Fingerprint>
+      <Integrity>vG5dpyfsrTpNCdu3AixdXc50p6jHU6miPCoIfWSQ9Eg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\RelatoriosTemp\Relatorio_bb01c2e4-9e0c-4296-9529-8695b9f7ec63.pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\RelatoriosTemp\Relatorio_c08e9b86-6119-4434-9df0-71fe27763869.pdf'))">
       <SourceType>Package</SourceType>
       <SourceId>AppMultaImpressao</SourceId>
@@ -251,6 +341,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\RelatoriosTemp\Relatorio_c08e9b86-6119-4434-9df0-71fe27763869.pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\RelatoriosTemp\Relatorio_ec66a221-fe67-44b1-b4f5-eca0dd56de93.pdf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>AppMultaImpressao</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/AppMultaImpressao</BasePath>
+      <RelativePath>RelatoriosTemp/Relatorio_ec66a221-fe67-44b1-b4f5-eca0dd56de93.pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>zs8pjutm5x</Fingerprint>
+      <Integrity>LYygLvSmqyXoClBUw6enFe+oLHNDvGJk9vVK/6VwlYM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\RelatoriosTemp\Relatorio_ec66a221-fe67-44b1-b4f5-eca0dd56de93.pdf'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\RelatoriosTemp\Relatorio_ed76f904-9568-4ae1-b7f8-24f485eabfef.pdf'))">
       <SourceType>Package</SourceType>
@@ -287,6 +395,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\RelatoriosTemp\Relatorio_f2eb37a9-5700-4af8-a885-4b4afbf0388e.pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\RelatoriosTemp\Relatorio_f96dd73f-6942-47a0-87e0-c88d14e43feb.pdf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>AppMultaImpressao</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/AppMultaImpressao</BasePath>
+      <RelativePath>RelatoriosTemp/Relatorio_f96dd73f-6942-47a0-87e0-c88d14e43feb.pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>5ipweew5fc</Fingerprint>
+      <Integrity>47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\RelatoriosTemp\Relatorio_f96dd73f-6942-47a0-87e0-c88d14e43feb.pdf'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>

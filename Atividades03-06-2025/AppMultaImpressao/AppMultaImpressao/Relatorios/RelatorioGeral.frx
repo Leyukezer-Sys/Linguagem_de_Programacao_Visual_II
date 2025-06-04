@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report ScriptLanguage="CSharp" ReportInfo.Created="06/03/2025 21:16:11" ReportInfo.Modified="06/03/2025 21:50:39" ReportInfo.CreatorVersion="2025.2.0.0">
+  <Dictionary>
+    <BusinessObjectDataSource Name="Multas" ReferenceName="Multas" DataType="System.Int32" Enabled="true">
+      <Column Name="Id" DataType="System.Int32"/>
+      <Column Name="Descricao" DataType="System.String"/>
+      <Column Name="ValorMulta" DataType="System.Int32"/>
+      <Column Name="IdVeiculo" DataType="System.Int32"/>
+      <Column Name="Veiculo" DataType="System.Int32">
+        <Column Name="Id" DataType="System.Int32"/>
+        <Column Name="Modelo" DataType="System.String"/>
+        <Column Name="Marca" DataType="System.String"/>
+        <Column Name="Placa" DataType="System.String"/>
+        <BusinessObjectDataSource Name="Multas1" Alias="Multas" DataType="System.Int32" PropName="Multas" Enabled="true">
+          <Column Name="Id" DataType="System.Int32"/>
+          <Column Name="Descricao" DataType="System.String"/>
+          <Column Name="ValorMulta" DataType="System.Int32"/>
+          <Column Name="IdVeiculo" DataType="System.Int32"/>
+          <Column Name="Veiculo" DataType="System.Int32">
+            <Column Name="Id" DataType="System.Int32"/>
+            <Column Name="Modelo" DataType="System.String"/>
+            <Column Name="Marca" DataType="System.String"/>
+            <Column Name="Placa" DataType="System.String"/>
+            <BusinessObjectDataSource Name="Multas2" Alias="Multas" DataType="System.Int32" PropName="Multas" Enabled="true">
+              <Column Name="Id" DataType="System.Int32"/>
+              <Column Name="Descricao" DataType="System.String"/>
+              <Column Name="ValorMulta" DataType="System.Int32"/>
+              <Column Name="IdVeiculo" DataType="System.Int32"/>
+              <Column Name="Veiculo" DataType="System.Int32">
+                <Column Name="Id" DataType="System.Int32"/>
+                <Column Name="Modelo" DataType="System.String"/>
+                <Column Name="Marca" DataType="System.String"/>
+                <Column Name="Placa" DataType="System.String"/>
+                <BusinessObjectDataSource Name="Multas3" Alias="Multas" DataType="System.Int32" PropName="Multas" Enabled="true">
+                  <Column Name="Id" DataType="System.Int32"/>
+                  <Column Name="Descricao" DataType="System.String"/>
+                  <Column Name="ValorMulta" DataType="System.Int32"/>
+                  <Column Name="IdVeiculo" DataType="System.Int32"/>
+                  <Column Name="Veiculo" DataType="System.Int32">
+                    <Column Name="Id" DataType="System.Int32"/>
+                    <Column Name="Modelo" DataType="System.String"/>
+                    <Column Name="Marca" DataType="System.String"/>
+                    <Column Name="Placa" DataType="System.String"/>
+                    <BusinessObjectDataSource Name="Multas4" Alias="Multas" DataType="System.Int32" PropName="Multas" Enabled="true">
+                      <Column Name="Id" DataType="System.Int32"/>
+                      <Column Name="Descricao" DataType="System.String"/>
+                      <Column Name="ValorMulta" DataType="System.Int32"/>
+                      <Column Name="IdVeiculo" DataType="System.Int32"/>
+                      <Column Name="Veiculo" DataType="System.Int32">
+                        <Column Name="Id" DataType="System.Int32"/>
+                        <Column Name="Modelo" DataType="System.String"/>
+                        <Column Name="Marca" DataType="System.String"/>
+                        <Column Name="Placa" DataType="System.String"/>
+                        <BusinessObjectDataSource Name="Multas5" Alias="Multas" Enabled="false" DataType="System.Int32" PropName="Multas"/>
+                      </Column>
+                    </BusinessObjectDataSource>
+                  </Column>
+                </BusinessObjectDataSource>
+              </Column>
+            </BusinessObjectDataSource>
+          </Column>
+        </BusinessObjectDataSource>
+      </Column>
+    </BusinessObjectDataSource>
+    <BusinessObjectDataSource Name="Veiculos" ReferenceName="Veiculos" DataType="System.Int32" Enabled="true">
+      <Column Name="Id" DataType="System.Int32"/>
+      <Column Name="Modelo" DataType="System.String"/>
+      <Column Name="Marca" DataType="System.String"/>
+      <Column Name="Placa" DataType="System.String"/>
+      <BusinessObjectDataSource Name="Multas6" Alias="Multas" DataType="System.Int32" PropName="Multas" Enabled="true">
+        <Column Name="Id" DataType="System.Int32"/>
+        <Column Name="Descricao" DataType="System.String"/>
+        <Column Name="ValorMulta" DataType="System.Int32"/>
+        <Column Name="IdVeiculo" DataType="System.Int32"/>
+        <Column Name="Veiculo" DataType="System.Int32">
+          <Column Name="Id" DataType="System.Int32"/>
+          <Column Name="Modelo" DataType="System.String"/>
+          <Column Name="Marca" DataType="System.String"/>
+          <Column Name="Placa" DataType="System.String"/>
+          <BusinessObjectDataSource Name="Multas7" Alias="Multas" DataType="System.Int32" PropName="Multas" Enabled="true">
+            <Column Name="Id" DataType="System.Int32"/>
+            <Column Name="Descricao" DataType="System.String"/>
+            <Column Name="ValorMulta" DataType="System.Int32"/>
+            <Column Name="IdVeiculo" DataType="System.Int32"/>
+            <Column Name="Veiculo" DataType="System.Int32">
+              <Column Name="Id" DataType="System.Int32"/>
+              <Column Name="Modelo" DataType="System.String"/>
+              <Column Name="Marca" DataType="System.String"/>
+              <Column Name="Placa" DataType="System.String"/>
+              <BusinessObjectDataSource Name="Multas8" Alias="Multas" DataType="System.Int32" PropName="Multas" Enabled="true">
+                <Column Name="Id" DataType="System.Int32"/>
+                <Column Name="Descricao" DataType="System.String"/>
+                <Column Name="ValorMulta" DataType="System.Int32"/>
+                <Column Name="IdVeiculo" DataType="System.Int32"/>
+                <Column Name="Veiculo" DataType="System.Int32">
+                  <Column Name="Id" DataType="System.Int32"/>
+                  <Column Name="Modelo" DataType="System.String"/>
+                  <Column Name="Marca" DataType="System.String"/>
+                  <Column Name="Placa" DataType="System.String"/>
+                  <BusinessObjectDataSource Name="Multas9" Alias="Multas" DataType="System.Int32" PropName="Multas" Enabled="true">
+                    <Column Name="Id" DataType="System.Int32"/>
+                    <Column Name="Descricao" DataType="System.String"/>
+                    <Column Name="ValorMulta" DataType="System.Int32"/>
+                    <Column Name="IdVeiculo" DataType="System.Int32"/>
+                    <Column Name="Veiculo" DataType="System.Int32">
+                      <Column Name="Id" DataType="System.Int32"/>
+                      <Column Name="Modelo" DataType="System.String"/>
+                      <Column Name="Marca" DataType="System.String"/>
+                      <Column Name="Placa" DataType="System.String"/>
+                      <BusinessObjectDataSource Name="Multas10" Alias="Multas" DataType="System.Int32" PropName="Multas" Enabled="true">
+                        <Column Name="Id" DataType="System.Int32"/>
+                        <Column Name="Descricao" DataType="System.String"/>
+                        <Column Name="ValorMulta" DataType="System.Int32"/>
+                        <Column Name="IdVeiculo" DataType="System.Int32"/>
+                        <Column Name="Veiculo" DataType="System.Int32"/>
+                      </BusinessObjectDataSource>
+                    </Column>
+                  </BusinessObjectDataSource>
+                </Column>
+              </BusinessObjectDataSource>
+            </Column>
+          </BusinessObjectDataSource>
+        </Column>
+      </BusinessObjectDataSource>
+    </BusinessObjectDataSource>
+    <Relation Name="Veiculos_Multas" ParentDataSource="Veiculos" ChildDataSource="Multas" ParentColumns="Id" ChildColumns="IdVeiculo" Enabled="true"/>
+  </Dictionary>
+  <ReportPage Name="Page1" Watermark.Font="Arial, 60pt">
+    <ReportTitleBand Name="ReportTitle1" Width="718.2" Height="94.5" Fill.Color="DarkOrange">
+      <TextObject Name="Text1" Width="718.2" Height="94.5" Text="RELATÓRIO GERAL&#13;&#10;VEÍCULOS E MULTAS" HorzAlign="Center" VertAlign="Center" Font="Arial, 18pt, style=Bold"/>
+    </ReportTitleBand>
+    <PageHeaderBand Name="PageHeader1" Top="98.5" Width="718.2" Height="28.35">
+      <TextObject Name="Text3" Left="37.8" Width="151.2" Height="28.35" Border.Lines="Bottom" Border.Width="4" Text="Modelo" HorzAlign="Center" VertAlign="Center" Font="Arial, 16pt, style=Bold"/>
+      <TextObject Name="Text5" Left="189" Width="132.3" Height="28.35" Border.Lines="Bottom" Border.Width="4" Text="Placa" HorzAlign="Center" VertAlign="Center" Font="Arial, 16pt, style=Bold"/>
+    </PageHeaderBand>
+    <DataBand Name="Data1" Top="130.85" Width="718.2" Height="75.6" DataSource="Veiculos">
+      <TextObject Name="Text2" Left="37.8" Top="47.25" Width="151.2" Height="28.35" Text="[Veiculos.Modelo]" HorzAlign="Center" VertAlign="Center" Font="Arial, 12pt"/>
+      <TextObject Name="Text4" Left="189" Top="47.25" Width="132.3" Height="28.35" Text="[Veiculos.Placa]" HorzAlign="Center" VertAlign="Center" Font="Arial, 12pt"/>
+      <DataBand Name="Data2" Top="252.25" Width="718.2" Height="37.8" DataSource="Multas">
+        <TextObject Name="Text6" Left="37.8" Width="226.8" Height="37.8" Border.Lines="Bottom" Border.Width="2" Text="[Multas.Descricao]" HorzAlign="Justify" VertAlign="Center" Font="Arial, 12pt"/>
+        <TextObject Name="Text8" Left="264.6" Width="189" Height="37.8" Border.Lines="Bottom" Border.Width="2" Text="[Multas.ValorMulta]" Format="Currency" Format.UseLocale="true" Format.DecimalDigits="2" HorzAlign="Right" VertAlign="Center" Font="Arial, 12pt"/>
+        <DataHeaderBand Name="DataHeader1" Top="210.45" Width="718.2" Height="37.8">
+          <TextObject Name="Text7" Left="37.8" Width="226.8" Height="37.8" Border.Lines="Top, Bottom" Border.LeftLine.Width="2" Border.TopLine.Width="4" Border.RightLine.Width="2" Border.BottomLine.Width="2" Text="Descricao Da Multa" VertAlign="Center" Font="Arial, 12pt, style=Bold"/>
+          <TextObject Name="Text9" Left="264.6" Width="189" Height="37.8" Border.Lines="Top, Bottom" Border.LeftLine.Width="2" Border.TopLine.Width="4" Border.RightLine.Width="2" Border.BottomLine.Width="2" Text="Valor Da Multa" HorzAlign="Right" VertAlign="Center" Font="Arial, 12pt, style=Bold"/>
+        </DataHeaderBand>
+        <DataFooterBand Name="DataFooter1" Top="294.05" Width="718.2" Height="37.8"/>
+      </DataBand>
+    </DataBand>
+    <PageFooterBand Name="PageFooter1" Top="335.85" Width="718.2" Height="18.9"/>
+  </ReportPage>
+</Report>

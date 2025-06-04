@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppMultaImpressao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb109fa5fc17f4603743409936f4ee3529a79efe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+394c09b8a258946752fd52e609e41e5b1c970e3e")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppMultaImpressao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppMultaImpressao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
