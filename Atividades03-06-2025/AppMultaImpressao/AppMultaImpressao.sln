@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppMultaImpressao", "AppMultaImpressao\AppMultaImpressao.csproj", "{CC35DBE9-0CBC-4C17-93AF-41212B46306C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC35DBE9-0CBC-4C17-93AF-41212B46306C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC35DBE9-0CBC-4C17-93AF-41212B46306C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC35DBE9-0CBC-4C17-93AF-41212B46306C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC35DBE9-0CBC-4C17-93AF-41212B46306C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C896CD7-7F1A-410C-936F-7F19D50F3097}
+	EndGlobalSection
+EndGlobal
