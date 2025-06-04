@@ -3,7 +3,15 @@
 @using AppInventario.Models
 @using AppInventario.Services
 @inject PessoaService pessoaService;
+@inject PropriedadeService propriedadeService;
 @inject NavigationManager navegacao;
+@inject IJSRuntime JSRuntime
+
+<script>
+    function NovaGuia(url) {
+    window.open(url, '_blank');
+    }
+</script>
 
 <h3>CONSULTA DE PESSOAS</h3>
 
@@ -115,6 +123,9 @@
             }
         </tbody>
     </table>
+
+
+    <button type="button" class="btn btn-success" @onclick="ImprimirInventario">RELATÓRIO GERAL INVENTARIO</button>
 </div>
 
 @code {
@@ -126,6 +137,7 @@
     private Pessoa pessoa = new Pessoa();
     private List<Propriedade> bensRegistrados = new List<Propriedade>();
     private List<Propriedade> bensFiltrados = new List<Propriedade>();
+    private List<Propriedade> inventario = new List<Propriedade>();
 
     // Filtros
     private double? ValorFiltro { get; set; }
@@ -143,6 +155,8 @@
         {
             Pessoas = lista.ToList();
         }
+        var lista1 = await propriedadeService.Propriedades();
+        inventario = lista1;
     }
 
     private void SelecionarPessoas(ChangeEventArgs e)
@@ -182,5 +196,10 @@
         }
 
         bensFiltrados = query.ToList();
+    }
+
+    private void ImprimirInventario()
+    {
+        
     }
 }
