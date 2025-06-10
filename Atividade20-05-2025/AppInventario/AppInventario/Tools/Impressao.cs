@@ -11,7 +11,7 @@ namespace AppInventario.Tools
         {
             try
             {
-                var filePath = Path.Combine(Directory.GetCurrentDirectory(), @"Relatorios\NomeRelatorio.frx");
+                var filePath = Path.Combine(Directory.GetCurrentDirectory(), @"Relatorios\RelatorioGeral.frx");
                 if (!File.Exists(filePath))
                 {
                     var report = new FastReport.Report();
